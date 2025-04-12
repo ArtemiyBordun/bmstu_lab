@@ -40,4 +40,5 @@
 [Aa]ssets/[Ss]cenes/[Tt]errain[Dd]atas/*.asset filter=lfs diff=lfs merge=lfs -text
 **/*[Tt]errain.asset filter=lfs diff=lfs merge=lfs -text
 **/*SerializedVolumeData.asset filter=lfs diff=lfs merge=lfs -text
-
+#Files
+*.csv filter=lfs diff=lfs merge=lfs -text
