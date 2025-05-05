@@ -1,0 +1,20 @@
+{
+  "MaxOrder":  10,
+  "Person": {
+    "Count": 5,
+    "BaseFrequency": 30,
+    "RandomFrequency": 15
+  },
+  "Handler": {
+    "Worker": {
+      "Count": 3,
+      "BaseFrequency": 15,
+      "RandomFrequency": 5
+    },
+    "PickupPoint": {
+      "Count": 2,
+      "BaseFrequency": 5,
+      "RandomFrequency": 2
+    }
+  }
+}

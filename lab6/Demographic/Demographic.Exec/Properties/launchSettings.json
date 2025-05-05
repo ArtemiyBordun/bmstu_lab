@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Demographic.Exec": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\proga\\sem3\\lab6\\config.json\""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Conveyor.Config
+{
+    public class Handler
+    {
+        public Worker? Worker { get; set; }
+        public PickupPoint? PickupPoint { get; set; }
+    }
+}

@@ -1,0 +1,1198 @@
+11.12.2024 20:39:30 - Simulation started.
+11.12.2024 20:39:48 - User 2 generated order 502c0506-403f-42d1-9db5-11d617c0f44b
+11.12.2024 20:39:51 - User 5 generated order f69029c4-4a28-4765-a062-f9019857b713
+11.12.2024 20:39:57 - User 3 generated order 2bb1357e-5fa8-4f0a-b3cc-eff3d449b147
+11.12.2024 20:40:01 - User 4 generated order 91296c75-43fd-41fd-8273-c0ab54fc29a6
+11.12.2024 20:40:03 - Worker 4 processed order 502c0506-403f-42d1-9db5-11d617c0f44b
+11.12.2024 20:40:04 - Worker 1 processed order f69029c4-4a28-4765-a062-f9019857b713
+11.12.2024 20:40:07 - Pickup Point 1 delivered order 502c0506-403f-42d1-9db5-11d617c0f44b
+11.12.2024 20:40:10 - User 1 generated order c362c0b3-96f5-4201-ad37-37308de0c52a
+11.12.2024 20:40:10 - Pickup Point 1 delivered order f69029c4-4a28-4765-a062-f9019857b713
+11.12.2024 20:40:12 - User 3 generated order e4e05982-6c4d-4eac-9290-afd6cf22c53f
+11.12.2024 20:40:14 - User 5 generated order 532e251e-1dfc-4199-a32d-bf39a754eff2
+11.12.2024 20:40:15 - Worker 2 processed order 2bb1357e-5fa8-4f0a-b3cc-eff3d449b147
+11.12.2024 20:40:16 - Worker 3 processed order 91296c75-43fd-41fd-8273-c0ab54fc29a6
+11.12.2024 20:40:17 - User 4 generated order 52502f43-2a9b-4fe9-b79f-e6f158c4577f
+11.12.2024 20:40:20 - Pickup Point 1 delivered order 2bb1357e-5fa8-4f0a-b3cc-eff3d449b147
+11.12.2024 20:40:20 - Worker 4 processed order c362c0b3-96f5-4201-ad37-37308de0c52a
+11.12.2024 20:40:24 - Pickup Point 1 delivered order 91296c75-43fd-41fd-8273-c0ab54fc29a6
+11.12.2024 20:40:26 - User 2 generated order 47faef83-acc4-4a32-bd7b-ecfb6233da56
+11.12.2024 20:40:27 - Worker 1 processed order e4e05982-6c4d-4eac-9290-afd6cf22c53f
+11.12.2024 20:40:28 - Worker 3 processed order 52502f43-2a9b-4fe9-b79f-e6f158c4577f
+11.12.2024 20:40:28 - Worker 2 processed order 532e251e-1dfc-4199-a32d-bf39a754eff2
+11.12.2024 20:40:29 - Pickup Point 1 delivered order c362c0b3-96f5-4201-ad37-37308de0c52a
+11.12.2024 20:40:35 - Pickup Point 1 delivered order e4e05982-6c4d-4eac-9290-afd6cf22c53f
+11.12.2024 20:40:37 - Worker 4 processed order 47faef83-acc4-4a32-bd7b-ecfb6233da56
+11.12.2024 20:40:40 - Pickup Point 1 delivered order 52502f43-2a9b-4fe9-b79f-e6f158c4577f
+11.12.2024 20:40:41 - User 4 generated order b029fb11-9fcb-456d-a34b-240d8e3341db
+11.12.2024 20:40:43 - Pickup Point 1 delivered order 532e251e-1dfc-4199-a32d-bf39a754eff2
+11.12.2024 20:40:49 - Pickup Point 1 delivered order 47faef83-acc4-4a32-bd7b-ecfb6233da56
+11.12.2024 20:40:50 - User 2 generated order d4237d82-b71c-4c0d-9060-e38bef7c4843
+11.12.2024 20:40:53 - User 1 generated order e97bb472-7def-4750-8add-8c16d8cdbb6b
+11.12.2024 20:40:54 - User 5 generated order e992c26c-76b3-4995-8bc6-c0f11c7747fc
+11.12.2024 20:40:57 - User 3 generated order d28a1515-bb47-4091-b58d-f4a9a6f9ca5f
+11.12.2024 20:40:57 - User 4 generated order 12aa6c6d-9bf7-4a7c-b7d0-2085e6570426
+11.12.2024 20:41:00 - Worker 3 processed order b029fb11-9fcb-456d-a34b-240d8e3341db
+11.12.2024 20:41:01 - Worker 1 processed order d4237d82-b71c-4c0d-9060-e38bef7c4843
+11.12.2024 20:41:06 - Worker 4 processed order e97bb472-7def-4750-8add-8c16d8cdbb6b
+11.12.2024 20:41:06 - Worker 2 processed order e992c26c-76b3-4995-8bc6-c0f11c7747fc
+11.12.2024 20:41:07 - Pickup Point 1 delivered order b029fb11-9fcb-456d-a34b-240d8e3341db
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 3
+Order is created 15, is proccesed 13, is finished = 10
+11.12.2024 20:44:36 - Simulation started.
+11.12.2024 20:45:05 - User 1 generated order ef4546f3-8c12-4f66-947b-317e5e0305d1
+11.12.2024 20:45:08 - User 3 generated order 583c1400-6abe-44bf-ab4b-4134a42dd76c
+11.12.2024 20:45:12 - User 4 generated order fc17a1c9-e743-4aae-9039-2fcb0e909e51
+11.12.2024 20:45:13 - User 2 generated order b0fb1eb2-8f8e-4452-95f9-c21e4b96a741
+11.12.2024 20:45:13 - User 5 generated order 21a2be42-fa5d-4dc7-ba29-d209377ade55
+11.12.2024 20:45:19 - Worker 4 processed order 583c1400-6abe-44bf-ab4b-4134a42dd76c
+11.12.2024 20:45:23 - Worker 3 processed order ef4546f3-8c12-4f66-947b-317e5e0305d1
+11.12.2024 20:45:24 - Worker 1 processed order fc17a1c9-e743-4aae-9039-2fcb0e909e51
+11.12.2024 20:45:25 - Pickup Point 2 delivered order 583c1400-6abe-44bf-ab4b-4134a42dd76c
+11.12.2024 20:45:28 - User 1 generated order f3eca86f-f360-45f9-81b2-6bbb5d8a6184
+11.12.2024 20:45:28 - Worker 2 processed order b0fb1eb2-8f8e-4452-95f9-c21e4b96a741
+11.12.2024 20:45:29 - Pickup Point 2 delivered order fc17a1c9-e743-4aae-9039-2fcb0e909e51
+11.12.2024 20:45:29 - User 3 generated order 1237f1a6-46f1-4e43-970e-fb0eb20d037c
+11.12.2024 20:45:30 - Pickup Point 1 delivered order ef4546f3-8c12-4f66-947b-317e5e0305d1
+11.12.2024 20:45:32 - User 5 generated order 92c775d6-d036-415c-82fe-917278483605
+11.12.2024 20:45:35 - Pickup Point 2 delivered order b0fb1eb2-8f8e-4452-95f9-c21e4b96a741
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 16, is proccesed 8, is finished = 5
+11.12.2024 20:45:44 - Simulation started.
+11.12.2024 20:46:01 - User 5 generated order 7f0568c8-afd4-4283-82c5-0fe617b0cb79
+11.12.2024 20:46:13 - Worker 3 processed order 7f0568c8-afd4-4283-82c5-0fe617b0cb79
+11.12.2024 20:46:14 - User 3 generated order f39d4b77-f9c7-491c-9c86-e5a2aaa1d06d
+11.12.2024 20:46:16 - User 4 generated order 119ff604-8825-41ad-835b-e77747495386
+11.12.2024 20:46:17 - Pickup Point 2 delivered order 7f0568c8-afd4-4283-82c5-0fe617b0cb79
+11.12.2024 20:46:20 - User 1 generated order bec2b0b5-5ba6-4ebe-99ce-ebec67f97b4e
+11.12.2024 20:46:28 - User 2 generated order 4c23b3c9-5485-4c2e-b1cd-1a0b90d4ec84
+11.12.2024 20:46:31 - Worker 2 processed order 119ff604-8825-41ad-835b-e77747495386
+11.12.2024 20:46:32 - Worker 1 processed order f39d4b77-f9c7-491c-9c86-e5a2aaa1d06d
+11.12.2024 20:46:32 - Worker 3 processed order bec2b0b5-5ba6-4ebe-99ce-ebec67f97b4e
+11.12.2024 20:46:37 - Pickup Point 2 delivered order f39d4b77-f9c7-491c-9c86-e5a2aaa1d06d
+11.12.2024 20:46:37 - User 3 generated order 44fbeec8-2201-409c-b7d8-c1274dd0ad61
+11.12.2024 20:46:38 - Pickup Point 1 delivered order 119ff604-8825-41ad-835b-e77747495386
+11.12.2024 20:46:41 - Worker 2 processed order 4c23b3c9-5485-4c2e-b1cd-1a0b90d4ec84
+11.12.2024 20:46:44 - User 5 generated order 499319d6-c1d0-443b-bf7b-10b4526e3836
+11.12.2024 20:46:44 - Pickup Point 2 delivered order bec2b0b5-5ba6-4ebe-99ce-ebec67f97b4e
+11.12.2024 20:46:45 - Pickup Point 1 delivered order 4c23b3c9-5485-4c2e-b1cd-1a0b90d4ec84
+11.12.2024 20:46:51 - User 1 generated order 8fcd7af2-3419-4f68-9541-f48e7f9df9b2
+11.12.2024 20:46:54 - User 2 generated order aa93d185-c988-458d-98c9-e73e4312f8ec
+11.12.2024 20:46:56 - Worker 1 processed order 44fbeec8-2201-409c-b7d8-c1274dd0ad61
+11.12.2024 20:46:57 - User 4 generated order 3b52423f-cee2-407b-bebf-a694ab730335
+11.12.2024 20:46:59 - User 3 generated order d5769d26-76dc-4b72-9014-8173c34897be
+11.12.2024 20:47:00 - Worker 2 processed order 499319d6-c1d0-443b-bf7b-10b4526e3836
+11.12.2024 20:47:02 - Pickup Point 1 delivered order 44fbeec8-2201-409c-b7d8-c1274dd0ad61
+11.12.2024 20:47:07 - Pickup Point 2 delivered order 499319d6-c1d0-443b-bf7b-10b4526e3836
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 1, PickupQueue = 0
+Order is created 22, is proccesed 14, is finished = 10
+11.12.2024 20:50:04 - Simulation started.
+11.12.2024 20:50:19 - User 10 generated order 5682399f-f38a-4443-bd26-514c7ba8c79d
+11.12.2024 20:50:22 - User 1 generated order 33201c7d-34ca-4e1f-974f-be518af36a6a
+11.12.2024 20:50:24 - User 15 generated order 5f8be1a2-7aa5-4dba-a355-9553da8a8dcc
+11.12.2024 20:50:28 - User 6 generated order cebccaf8-cf51-4f6d-bb4a-e5e524343334
+11.12.2024 20:50:29 - Worker 1 processed order 5682399f-f38a-4443-bd26-514c7ba8c79d
+11.12.2024 20:50:30 - User 3 generated order bac3da63-9438-429f-9d6b-e48f2815b0b1
+11.12.2024 20:50:31 - User 7 generated order 3f7f8160-9033-4750-bef2-c1a4d15057d7
+11.12.2024 20:50:34 - User 11 generated order 6d114524-9499-4c1b-99db-7c5c1cb1b4bb
+11.12.2024 20:50:34 - Pickup Point 2 delivered order 5682399f-f38a-4443-bd26-514c7ba8c79d
+11.12.2024 20:50:35 - User 9 generated order ec0d36d4-c4b6-4613-a2c8-701a66642830
+11.12.2024 20:50:36 - User 13 generated order dbc456c1-a98d-4bb1-974b-9a01e12b6637
+11.12.2024 20:50:37 - User 8 generated order 8d2d5d38-2711-48c1-8946-c4f33142e8c9
+11.12.2024 20:50:37 - User 5 generated order 9fb3fb4d-05dd-43d1-80dd-47a21d432abe
+11.12.2024 20:50:38 - Worker 4 processed order 33201c7d-34ca-4e1f-974f-be518af36a6a
+11.12.2024 20:50:39 - User 2 generated order cf1926bf-c592-4535-9eea-070af7fa7de9
+11.12.2024 20:50:39 - User 4 generated order fe1cd6c8-16fe-4107-b5ba-37ba6439c9db
+11.12.2024 20:50:41 - User 10 generated order b296f09a-2984-4d33-9a6b-7434489c239a
+11.12.2024 20:50:41 - User 14 generated order 1a23960d-7488-4270-981e-edbba517f75f
+11.12.2024 20:50:43 - Worker 5 processed order cebccaf8-cf51-4f6d-bb4a-e5e524343334
+11.12.2024 20:50:43 - Pickup Point 3 delivered order 33201c7d-34ca-4e1f-974f-be518af36a6a
+11.12.2024 20:50:44 - Worker 2 processed order 3f7f8160-9033-4750-bef2-c1a4d15057d7
+11.12.2024 20:50:44 - Worker 3 processed order 5f8be1a2-7aa5-4dba-a355-9553da8a8dcc
+11.12.2024 20:50:46 - User 12 generated order 9afce624-f4a9-4d40-8698-91feb2aec90b
+11.12.2024 20:50:48 - Worker 1 processed order bac3da63-9438-429f-9d6b-e48f2815b0b1
+11.12.2024 20:50:49 - Pickup Point 1 delivered order 3f7f8160-9033-4750-bef2-c1a4d15057d7
+11.12.2024 20:50:49 - Pickup Point 2 delivered order cebccaf8-cf51-4f6d-bb4a-e5e524343334
+11.12.2024 20:50:50 - Pickup Point 3 delivered order 5f8be1a2-7aa5-4dba-a355-9553da8a8dcc
+11.12.2024 20:50:51 - User 1 generated order fe3a0b91-b575-43a7-84bd-9c929de786cf
+11.12.2024 20:50:52 - User 13 generated order fb17035c-8bf6-4924-9126-d28d3edda04c
+11.12.2024 20:50:53 - User 6 generated order bdc045af-3a40-4b42-a372-794aefed1243
+11.12.2024 20:50:54 - User 2 generated order f3222af9-71b0-4cde-a175-79c421dab573
+11.12.2024 20:50:54 - User 11 generated order 34454e7c-ea2f-4cc4-bff1-884af0b78d7b
+11.12.2024 20:50:54 - Worker 2 processed order dbc456c1-a98d-4bb1-974b-9a01e12b6637
+11.12.2024 20:50:54 - Pickup Point 1 delivered order bac3da63-9438-429f-9d6b-e48f2815b0b1
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 9, PickupQueue = 0
+Order is created 63, is proccesed 21, is finished = 12
+11.12.2024 20:54:45 - Simulation started.
+11.12.2024 20:55:02 - User 5 generated order 2d4003a8-f455-401b-8b17-d09249164988
+11.12.2024 20:55:03 - User 2 generated order 6677b418-d799-4c8c-92df-e1654c558ad0
+11.12.2024 20:55:05 - User 4 generated order 47eb7742-20ab-48b1-bcb9-24224d6f7b2a
+11.12.2024 20:55:13 - Worker 2 processed order 2d4003a8-f455-401b-8b17-d09249164988
+11.12.2024 20:55:17 - Pickup Point 1 delivered order 2d4003a8-f455-401b-8b17-d09249164988
+11.12.2024 20:55:19 - User 3 generated order 4f870cc3-cb72-49f1-9b9d-973559a5a5ad
+11.12.2024 20:55:19 - User 1 generated order dc4f05cd-232b-45c1-8d9d-e3c403245509
+11.12.2024 20:55:23 - Worker 1 processed order 6677b418-d799-4c8c-92df-e1654c558ad0
+11.12.2024 20:55:27 - User 5 generated order 2fee5ddb-0921-4e4b-b58a-4dbe409250f6
+11.12.2024 20:55:27 - Pickup Point 1 delivered order 6677b418-d799-4c8c-92df-e1654c558ad0
+11.12.2024 20:55:31 - Worker 2 processed order 47eb7742-20ab-48b1-bcb9-24224d6f7b2a
+11.12.2024 20:55:35 - User 2 generated order 1e5acd60-6a8e-4949-a5f5-24bd0125c30c
+11.12.2024 20:55:38 - Pickup Point 1 delivered order 47eb7742-20ab-48b1-bcb9-24224d6f7b2a
+11.12.2024 20:55:40 - User 1 generated order 9bd8bee2-b4d5-4e54-8758-b3284fae1be4
+11.12.2024 20:55:40 - User 4 generated order 34332447-4993-4758-a3c9-6f539c5ce5c2
+11.12.2024 20:55:41 - User 3 generated order 2cc5439b-7287-4a9a-9404-ca153a8db1cd
+11.12.2024 20:55:41 - Worker 1 processed order dc4f05cd-232b-45c1-8d9d-e3c403245509
+11.12.2024 20:55:44 - Pickup Point 1 delivered order dc4f05cd-232b-45c1-8d9d-e3c403245509
+11.12.2024 20:55:49 - Worker 2 processed order 4f870cc3-cb72-49f1-9b9d-973559a5a5ad
+11.12.2024 20:55:53 - Worker 1 processed order 2fee5ddb-0921-4e4b-b58a-4dbe409250f6
+11.12.2024 20:55:56 - Pickup Point 1 delivered order 4f870cc3-cb72-49f1-9b9d-973559a5a5ad
+11.12.2024 20:55:59 - User 5 generated order 9ccbe7c8-0d67-4e3c-8770-55df7d2cb00d
+11.12.2024 20:56:01 - Worker 2 processed order 1e5acd60-6a8e-4949-a5f5-24bd0125c30c
+11.12.2024 20:56:02 - Pickup Point 1 delivered order 2fee5ddb-0921-4e4b-b58a-4dbe409250f6
+11.12.2024 20:56:06 - Pickup Point 1 delivered order 1e5acd60-6a8e-4949-a5f5-24bd0125c30c
+11.12.2024 20:56:07 - User 1 generated order d325868d-d3b7-4493-b53a-36aada8489ab
+11.12.2024 20:56:09 - Worker 1 processed order 9bd8bee2-b4d5-4e54-8758-b3284fae1be4
+11.12.2024 20:56:12 - User 4 generated order 4d0340b7-5577-44f0-ac24-9635ac319ef6
+11.12.2024 20:56:12 - User 2 generated order ff90541e-7835-49bb-a2f9-58c024eb780e
+11.12.2024 20:56:13 - Pickup Point 1 delivered order 9bd8bee2-b4d5-4e54-8758-b3284fae1be4
+11.12.2024 20:56:14 - User 3 generated order b378d6f7-bb43-4310-b849-22a1f0f059d9
+11.12.2024 20:56:16 - Worker 2 processed order 34332447-4993-4758-a3c9-6f539c5ce5c2
+11.12.2024 20:56:22 - Pickup Point 1 delivered order 34332447-4993-4758-a3c9-6f539c5ce5c2
+11.12.2024 20:56:23 - Worker 1 processed order 2cc5439b-7287-4a9a-9404-ca153a8db1cd
+11.12.2024 20:56:27 - User 2 generated order 81382cfb-841e-4e99-ba45-7af90ffc8869
+11.12.2024 20:56:30 - Pickup Point 1 delivered order 2cc5439b-7287-4a9a-9404-ca153a8db1cd
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 4, PickupQueue = 0
+Order is created 16, is proccesed 10, is finished = 10
+11.12.2024 21:05:36 - Simulation started.
+11.12.2024 21:05:51 - User 6 generated order 1d30152c-159a-43cb-b385-dde28a2b4f9d
+11.12.2024 21:05:52 - User 11 generated order 6c9a8fad-4446-491d-b307-e56235572c3f
+11.12.2024 21:05:53 - User 15 generated order 8117afb3-f920-4c2d-bc6b-8cb160628bc9
+11.12.2024 21:05:55 - User 9 generated order 9236eb61-ad72-4668-a1c7-9850f77f3a63
+11.12.2024 21:05:59 - User 1 generated order c80b6b5e-6837-4f72-9c75-2f2f3e104e51
+11.12.2024 21:06:02 - User 13 generated order 1ab903f1-cc54-4afb-bc6b-6331dbad8244
+11.12.2024 21:06:03 - User 8 generated order d28ae5bc-1499-4eeb-a7e3-9e9e121d56ed
+11.12.2024 21:06:03 - Worker 2 processed order 8117afb3-f920-4c2d-bc6b-8cb160628bc9
+11.12.2024 21:06:05 - User 4 generated order 12f4c788-77a5-48fb-a13a-21dc39844841
+11.12.2024 21:06:06 - User 7 generated order e6b2f479-5bcc-4a5e-a6ca-072a6e7a4078
+11.12.2024 21:06:06 - Worker 7 processed order 1d30152c-159a-43cb-b385-dde28a2b4f9d
+11.12.2024 21:06:06 - Worker 5 processed order 9236eb61-ad72-4668-a1c7-9850f77f3a63
+11.12.2024 21:06:07 - User 5 generated order b0c288dd-de37-49b9-b8b9-a3e16e9b1203
+11.12.2024 21:06:07 - User 10 generated order b4b0d202-ca71-4075-ac63-150c68582b3f
+11.12.2024 21:06:08 - Worker 1 processed order 6c9a8fad-4446-491d-b307-e56235572c3f
+11.12.2024 21:06:09 - User 12 generated order e89f0e56-4c94-4056-8dca-ab3ba5ff554a
+11.12.2024 21:06:09 - Pickup Point 1 delivered order 8117afb3-f920-4c2d-bc6b-8cb160628bc9
+11.12.2024 21:06:09 - Pickup Point 2 delivered order 1d30152c-159a-43cb-b385-dde28a2b4f9d
+11.12.2024 21:06:12 - User 6 generated order d4d07422-0c7e-466c-b61c-791f3f9a3423
+11.12.2024 21:06:12 - User 3 generated order 9b3bae25-e349-4537-8377-a1e303ec87af
+11.12.2024 21:06:13 - Pickup Point 3 delivered order 9236eb61-ad72-4668-a1c7-9850f77f3a63
+11.12.2024 21:06:14 - Worker 3 processed order c80b6b5e-6837-4f72-9c75-2f2f3e104e51
+11.12.2024 21:06:15 - Pickup Point 1 delivered order 6c9a8fad-4446-491d-b307-e56235572c3f
+11.12.2024 21:06:16 - User 14 generated order 4f8686e6-1b38-4af7-88bc-214a5f43d4b6
+11.12.2024 21:06:17 - Worker 2 processed order 12f4c788-77a5-48fb-a13a-21dc39844841
+11.12.2024 21:06:17 - Worker 4 processed order 1ab903f1-cc54-4afb-bc6b-6331dbad8244
+11.12.2024 21:06:19 - User 2 generated order b75f9ca4-456a-4e0c-96d8-7f7511ec491c
+11.12.2024 21:06:20 - Pickup Point 3 delivered order c80b6b5e-6837-4f72-9c75-2f2f3e104e51
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 2, PickupQueue = 0
+Order is created 48, is proccesed 21, is finished = 10
+11.12.2024 21:08:30 - Simulation started.
+11.12.2024 21:08:49 - User 5 generated order 3453f416-9779-459f-abeb-2b8d266447da
+11.12.2024 21:08:52 - User 14 generated order a94dbe33-e871-4d40-9713-7a5a24fa05e8
+11.12.2024 21:08:53 - User 12 generated order e909be1d-04a1-4130-844a-78c26ef91c7b
+11.12.2024 21:08:54 - User 4 generated order b3b314d4-d5d5-48ab-8c03-d8851575c612
+11.12.2024 21:08:54 - User 1 generated order f676bcf6-1727-4b19-b18a-dceaa87e552e
+11.12.2024 21:08:54 - User 9 generated order 2721af19-22d1-41a2-b8dc-9c950f5312e7
+11.12.2024 21:08:54 - User 15 generated order aab5df2e-d715-4705-b122-6300ef528755
+11.12.2024 21:08:56 - User 11 generated order 4728dfc8-6c59-4d35-be82-d3aee0943268
+11.12.2024 21:08:59 - User 3 generated order 73e2aa89-473b-48a9-b7fa-cd416ed93c22
+11.12.2024 21:08:59 - User 6 generated order cad14047-443e-4dbb-b56b-5e95b746ccd6
+11.12.2024 21:09:01 - User 8 generated order 8bf10389-3afa-4283-b9ad-9acb1e5b61d1
+11.12.2024 21:09:01 - User 7 generated order 619a9976-3f37-408b-994f-318a4c31aee2
+11.12.2024 21:09:03 - Worker 3 processed order a94dbe33-e871-4d40-9713-7a5a24fa05e8
+11.12.2024 21:09:05 - Worker 7 processed order f676bcf6-1727-4b19-b18a-dceaa87e552e
+11.12.2024 21:09:06 - User 2 generated order b7eb6c65-5203-49ab-a3c1-3cd9fddcf13b
+11.12.2024 21:09:07 - Worker 2 processed order aab5df2e-d715-4705-b122-6300ef528755
+11.12.2024 21:09:07 - Worker 5 processed order 2721af19-22d1-41a2-b8dc-9c950f5312e7
+11.12.2024 21:09:07 - Worker 6 processed order e909be1d-04a1-4130-844a-78c26ef91c7b
+11.12.2024 21:09:07 - Pickup Point 1 delivered order a94dbe33-e871-4d40-9713-7a5a24fa05e8
+11.12.2024 21:09:08 - Worker 4 processed order 3453f416-9779-459f-abeb-2b8d266447da
+11.12.2024 21:09:09 - Worker 1 processed order b3b314d4-d5d5-48ab-8c03-d8851575c612
+11.12.2024 21:09:10 - User 4 generated order bccc0441-9124-44a9-ac07-906224adb1ae
+11.12.2024 21:09:10 - Pickup Point 1 delivered order 2721af19-22d1-41a2-b8dc-9c950f5312e7
+11.12.2024 21:09:10 - User 10 generated order 70163894-b276-4df8-9784-25ef99ebf235
+11.12.2024 21:09:12 - Pickup Point 2 delivered order f676bcf6-1727-4b19-b18a-dceaa87e552e
+11.12.2024 21:09:12 - User 5 generated order e76c509a-e67e-4978-a4d7-3d594ed79dcb
+11.12.2024 21:09:14 - User 13 generated order d60effc0-3c50-4fa4-9317-8a53cc1315b0
+11.12.2024 21:09:14 - Worker 3 processed order 4728dfc8-6c59-4d35-be82-d3aee0943268
+11.12.2024 21:09:14 - Pickup Point 3 delivered order aab5df2e-d715-4705-b122-6300ef528755
+11.12.2024 21:09:15 - Pickup Point 2 delivered order 3453f416-9779-459f-abeb-2b8d266447da
+11.12.2024 21:09:15 - Pickup Point 1 delivered order e909be1d-04a1-4130-844a-78c26ef91c7b
+11.12.2024 21:09:16 - Worker 7 processed order cad14047-443e-4dbb-b56b-5e95b746ccd6
+11.12.2024 21:09:18 - Worker 2 processed order 73e2aa89-473b-48a9-b7fa-cd416ed93c22
+11.12.2024 21:09:19 - User 7 generated order 60c28904-733d-4a29-b964-22d73dcaf654
+11.12.2024 21:09:19 - User 1 generated order d1420b79-bf6c-4a15-a8e0-be040309991b
+11.12.2024 21:09:19 - Pickup Point 3 delivered order b3b314d4-d5d5-48ab-8c03-d8851575c612
+11.12.2024 21:09:20 - Pickup Point 2 delivered order 4728dfc8-6c59-4d35-be82-d3aee0943268
+11.12.2024 21:09:21 - Pickup Point 1 delivered order cad14047-443e-4dbb-b56b-5e95b746ccd6
+11.12.2024 21:09:24 - Worker 5 processed order 8bf10389-3afa-4283-b9ad-9acb1e5b61d1
+11.12.2024 21:09:24 - User 2 generated order 31f12628-b8b4-40c5-8149-61765361bc77
+11.12.2024 21:09:24 - Pickup Point 3 delivered order 73e2aa89-473b-48a9-b7fa-cd416ed93c22
+11.12.2024 21:09:25 - Worker 1 processed order bccc0441-9124-44a9-ac07-906224adb1ae
+11.12.2024 21:09:25 - User 3 generated order 39569bbb-b54c-4f78-b0cf-85d0801d9c93
+11.12.2024 21:09:25 - User 11 generated order a12ea90a-9815-411f-846b-efb103b03de5
+11.12.2024 21:09:26 - User 14 generated order d82fc1fd-c4ca-4da9-b8e6-6194ac1b839e
+11.12.2024 21:09:26 - Worker 6 processed order 619a9976-3f37-408b-994f-318a4c31aee2
+11.12.2024 21:09:27 - Pickup Point 2 delivered order 8bf10389-3afa-4283-b9ad-9acb1e5b61d1
+11.12.2024 21:09:27 - Worker 4 processed order b7eb6c65-5203-49ab-a3c1-3cd9fddcf13b
+11.12.2024 21:09:28 - Worker 2 processed order d60effc0-3c50-4fa4-9317-8a53cc1315b0
+11.12.2024 21:09:30 - User 6 generated order 0339d555-df40-493f-879c-c5dd760d2684
+11.12.2024 21:09:30 - Pickup Point 2 delivered order b7eb6c65-5203-49ab-a3c1-3cd9fddcf13b
+11.12.2024 21:09:31 - User 12 generated order 29073843-5800-4b66-8541-8440cab3f56f
+11.12.2024 21:09:32 - Pickup Point 3 delivered order bccc0441-9124-44a9-ac07-906224adb1ae
+11.12.2024 21:09:32 - User 15 generated order 4d49777b-7220-49f2-9328-049b2c418210
+11.12.2024 21:09:33 - Worker 7 processed order e76c509a-e67e-4978-a4d7-3d594ed79dcb
+11.12.2024 21:09:33 - Pickup Point 1 delivered order 619a9976-3f37-408b-994f-318a4c31aee2
+11.12.2024 21:09:33 - User 5 generated order 7f646099-f522-4162-b151-f3f4fb06b48a
+11.12.2024 21:09:34 - Worker 3 processed order 70163894-b276-4df8-9784-25ef99ebf235
+11.12.2024 21:09:34 - Pickup Point 2 delivered order d60effc0-3c50-4fa4-9317-8a53cc1315b0
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 3, PickupQueue = 0
+Order is created 81, is proccesed 51, is finished = 31
+11.12.2024 21:11:15 - Simulation started.
+11.12.2024 21:11:30 - User 10 generated order c08a57e8-3529-4f6a-a234-8fd382b241ba
+11.12.2024 21:11:30 - User 8 generated order 288061b2-1e42-4eee-88ff-627a8366288d
+11.12.2024 21:11:31 - User 15 generated order feaa6571-8c06-4ca2-bdd3-e0c7306fc112
+11.12.2024 21:11:31 - User 13 generated order f9c2845c-7607-4041-9f64-8ce079658d5a
+11.12.2024 21:11:35 - User 1 generated order f6e3b73b-bcc1-4702-a79d-de91f83f6df9
+11.12.2024 21:11:38 - User 6 generated order a95fa5ff-c421-4b4c-8d30-8d5d75c2b965
+11.12.2024 21:11:41 - User 9 generated order baed98b9-17e7-4000-893e-354fc478f296
+11.12.2024 21:11:45 - Worker 5 processed order 288061b2-1e42-4eee-88ff-627a8366288d
+11.12.2024 21:11:46 - User 4 generated order fc5b3323-e42b-4032-8970-7028e522893c
+11.12.2024 21:11:49 - Worker 1 processed order f9c2845c-7607-4041-9f64-8ce079658d5a
+11.12.2024 21:11:49 - User 5 generated order db5178b7-8b52-44d8-9ddc-e61a82278e23
+11.12.2024 21:11:49 - User 12 generated order ee3b4c26-3e70-46b8-bfd6-4016e1f9ff27
+11.12.2024 21:11:49 - Worker 3 processed order c08a57e8-3529-4f6a-a234-8fd382b241ba
+11.12.2024 21:11:50 - Worker 4 processed order feaa6571-8c06-4ca2-bdd3-e0c7306fc112
+11.12.2024 21:11:52 - Worker 2 processed order f6e3b73b-bcc1-4702-a79d-de91f83f6df9
+11.12.2024 21:11:52 - Pickup Point 1 delivered order 288061b2-1e42-4eee-88ff-627a8366288d
+11.12.2024 21:11:54 - Pickup Point 3 delivered order c08a57e8-3529-4f6a-a234-8fd382b241ba
+11.12.2024 21:11:55 - User 11 generated order 02b5e249-ac9f-4224-b3cb-15b4e633abf9
+11.12.2024 21:11:55 - User 1 generated order a7807ac3-59e4-4f8c-8d7d-e422e66aabb7
+11.12.2024 21:11:56 - User 2 generated order a1ecf1c8-908b-46e2-91a2-207d97adb1c2
+11.12.2024 21:11:56 - Pickup Point 2 delivered order f9c2845c-7607-4041-9f64-8ce079658d5a
+11.12.2024 21:11:57 - User 3 generated order 4e58c20e-49c3-45bb-a468-6b3592085280
+11.12.2024 21:11:58 - User 14 generated order ed3b0f99-a9b1-4f53-b6b4-be5828785e23
+11.12.2024 21:11:58 - Worker 5 processed order a95fa5ff-c421-4b4c-8d30-8d5d75c2b965
+11.12.2024 21:11:58 - Pickup Point 1 delivered order feaa6571-8c06-4ca2-bdd3-e0c7306fc112
+11.12.2024 21:11:59 - User 13 generated order 9ed622ba-cba4-4885-81f4-38e4921e715c
+11.12.2024 21:12:00 - User 7 generated order 03770055-e678-4673-917a-e9fe7b1f6e2c
+11.12.2024 21:12:01 - User 15 generated order a3d084ef-9264-4391-902f-b80548aa8aad
+11.12.2024 21:12:01 - Pickup Point 3 delivered order f6e3b73b-bcc1-4702-a79d-de91f83f6df9
+11.12.2024 21:12:03 - Worker 1 processed order baed98b9-17e7-4000-893e-354fc478f296
+11.12.2024 21:12:04 - User 8 generated order aaf3d710-fea0-4ff4-8c9f-275a680f93f7
+11.12.2024 21:12:04 - Worker 2 processed order ee3b4c26-3e70-46b8-bfd6-4016e1f9ff27
+11.12.2024 21:12:04 - Pickup Point 2 delivered order a95fa5ff-c421-4b4c-8d30-8d5d75c2b965
+11.12.2024 21:12:06 - User 4 generated order 6347e708-72b1-4d23-a96b-b8b4bca61d9a
+11.12.2024 21:12:06 - Worker 4 processed order db5178b7-8b52-44d8-9ddc-e61a82278e23
+11.12.2024 21:12:07 - Pickup Point 3 delivered order baed98b9-17e7-4000-893e-354fc478f296
+11.12.2024 21:12:08 - Worker 5 processed order 02b5e249-ac9f-4224-b3cb-15b4e633abf9
+11.12.2024 21:12:08 - Worker 3 processed order fc5b3323-e42b-4032-8970-7028e522893c
+11.12.2024 21:12:09 - Pickup Point 1 delivered order ee3b4c26-3e70-46b8-bfd6-4016e1f9ff27
+11.12.2024 21:12:11 - User 2 generated order e832e4ac-38a1-4863-a86a-70d5c9165ca4
+11.12.2024 21:12:13 - Pickup Point 3 delivered order 02b5e249-ac9f-4224-b3cb-15b4e633abf9
+11.12.2024 21:12:13 - User 10 generated order 4119669b-8efc-49ee-8c85-6a928ed6ef7b
+11.12.2024 21:12:13 - Pickup Point 1 delivered order fc5b3323-e42b-4032-8970-7028e522893c
+11.12.2024 21:12:13 - Pickup Point 2 delivered order db5178b7-8b52-44d8-9ddc-e61a82278e23
+11.12.2024 21:12:14 - User 5 generated order f191df22-193c-4dad-bf52-a3208d5ce2dd
+11.12.2024 21:12:16 - Worker 1 processed order a7807ac3-59e4-4f8c-8d7d-e422e66aabb7
+11.12.2024 21:12:16 - User 3 generated order f89ae909-d214-4853-b8f1-6f5f5ad501f2
+11.12.2024 21:12:17 - User 7 generated order 4c9b67d1-040c-43e4-a37d-284692356d92
+11.12.2024 21:12:18 - User 9 generated order ca7098f2-da88-429b-be3b-411b556316a2
+11.12.2024 21:12:18 - Worker 3 processed order 9ed622ba-cba4-4885-81f4-38e4921e715c
+11.12.2024 21:12:19 - Worker 5 processed order ed3b0f99-a9b1-4f53-b6b4-be5828785e23
+11.12.2024 21:12:19 - Pickup Point 3 delivered order a7807ac3-59e4-4f8c-8d7d-e422e66aabb7
+11.12.2024 21:12:20 - User 6 generated order b9085d68-c673-42d0-a85c-f9f6e8760616
+11.12.2024 21:12:21 - User 15 generated order 5e91bffe-c87b-4fe7-b898-89fce908442e
+11.12.2024 21:12:22 - User 11 generated order 126b5505-8602-47a8-aea9-6ca8873e31eb
+11.12.2024 21:12:22 - User 13 generated order 732c7f6c-53a6-42d4-9ec9-731c9f41d18a
+11.12.2024 21:12:22 - Pickup Point 1 delivered order 9ed622ba-cba4-4885-81f4-38e4921e715c
+11.12.2024 21:12:24 - Worker 4 processed order 4e58c20e-49c3-45bb-a468-6b3592085280
+11.12.2024 21:12:24 - Worker 2 processed order a1ecf1c8-908b-46e2-91a2-207d97adb1c2
+11.12.2024 21:12:24 - Pickup Point 2 delivered order ed3b0f99-a9b1-4f53-b6b4-be5828785e23
+11.12.2024 21:12:28 - Pickup Point 3 delivered order a1ecf1c8-908b-46e2-91a2-207d97adb1c2
+11.12.2024 21:12:28 - Worker 3 processed order a3d084ef-9264-4391-902f-b80548aa8aad
+11.12.2024 21:12:30 - User 1 generated order 07a507c5-17db-4f43-a161-69e0325161c1
+11.12.2024 21:12:31 - User 12 generated order 32c9fe7a-2193-47a2-a04d-9f0df87bf3a0
+11.12.2024 21:12:31 - Pickup Point 1 delivered order 4e58c20e-49c3-45bb-a468-6b3592085280
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 10, PickupQueue = 0
+Order is created 96, is proccesed 51, is finished = 32
+11.12.2024 21:13:30 - Simulation started.
+11.12.2024 21:13:45 - User 15 generated order 94d599ca-21fa-4326-b13b-9d8090d1a55f
+11.12.2024 21:13:46 - User 14 generated order 64d86ffe-03c1-427a-9f3d-85ac0eb31cfa
+11.12.2024 21:13:46 - User 2 generated order 1d26606b-b7cf-464e-bf45-f77e3e75c0c9
+11.12.2024 21:13:48 - User 8 generated order 012d0c5c-9691-4170-9f0c-3513b6398e7d
+11.12.2024 21:13:50 - User 11 generated order c64d72e9-6152-4137-907a-3b5159053418
+11.12.2024 21:13:55 - User 4 generated order 70ce219c-7971-4b85-afec-b67cd12b509e
+11.12.2024 21:13:56 - Worker 1 processed order 94d599ca-21fa-4326-b13b-9d8090d1a55f
+11.12.2024 21:13:57 - User 7 generated order e5d3dc0c-64c2-43b2-abfd-a833801dece9
+11.12.2024 21:13:58 - Worker 4 processed order 1d26606b-b7cf-464e-bf45-f77e3e75c0c9
+11.12.2024 21:13:59 - User 3 generated order be464879-b9b6-43f9-ba33-dfafc59c6891
+11.12.2024 21:13:59 - Worker 8 processed order 012d0c5c-9691-4170-9f0c-3513b6398e7d
+11.12.2024 21:14:00 - Pickup Point 3 delivered order 94d599ca-21fa-4326-b13b-9d8090d1a55f
+11.12.2024 21:14:04 - User 13 generated order 9c2803ca-9250-460c-b306-eba1694ec302
+11.12.2024 21:14:04 - User 12 generated order 7780adb4-88b3-4869-82c6-32e3143b3630
+11.12.2024 21:14:04 - User 5 generated order e75d2024-94d2-4c09-b135-70ab249625b4
+11.12.2024 21:14:05 - Pickup Point 1 delivered order 012d0c5c-9691-4170-9f0c-3513b6398e7d
+11.12.2024 21:14:05 - Worker 7 processed order c64d72e9-6152-4137-907a-3b5159053418
+11.12.2024 21:14:05 - Pickup Point 2 delivered order 1d26606b-b7cf-464e-bf45-f77e3e75c0c9
+11.12.2024 21:14:06 - Worker 5 processed order 64d86ffe-03c1-427a-9f3d-85ac0eb31cfa
+11.12.2024 21:14:08 - User 6 generated order 427725c4-9477-494c-a061-1dff51a6a27e
+11.12.2024 21:14:10 - Worker 1 processed order e5d3dc0c-64c2-43b2-abfd-a833801dece9
+11.12.2024 21:14:11 - Pickup Point 3 delivered order c64d72e9-6152-4137-907a-3b5159053418
+11.12.2024 21:14:12 - User 9 generated order a36e509f-8391-45b2-b66b-e705e17cc33c
+11.12.2024 21:14:12 - Worker 2 processed order 70ce219c-7971-4b85-afec-b67cd12b509e
+11.12.2024 21:14:12 - Pickup Point 2 delivered order 64d86ffe-03c1-427a-9f3d-85ac0eb31cfa
+11.12.2024 21:14:13 - User 10 generated order 505be89f-2f58-41dc-ab2d-45f29e639162
+11.12.2024 21:14:13 - User 1 generated order 1713833b-ac3d-4bdf-9adf-304e8f4686c3
+11.12.2024 21:14:15 - User 15 generated order aeaa234c-0fac-4529-8b64-e04c1b6df558
+11.12.2024 21:14:16 - Worker 4 processed order 9c2803ca-9250-460c-b306-eba1694ec302
+11.12.2024 21:14:16 - Worker 6 processed order be464879-b9b6-43f9-ba33-dfafc59c6891
+11.12.2024 21:14:16 - Pickup Point 1 delivered order e5d3dc0c-64c2-43b2-abfd-a833801dece9
+11.12.2024 21:14:16 - User 4 generated order ca245960-f460-48c8-b1ff-84bd98fb71de
+11.12.2024 21:14:16 - User 14 generated order 99cb245b-ff28-4b64-bb8a-1f7ae6b18d58
+11.12.2024 21:14:17 - User 11 generated order 6365a8fc-69ad-48c5-9d39-e339bf213e37
+11.12.2024 21:14:18 - Worker 8 processed order 7780adb4-88b3-4869-82c6-32e3143b3630
+11.12.2024 21:14:19 - Pickup Point 3 delivered order 70ce219c-7971-4b85-afec-b67cd12b509e
+11.12.2024 21:14:19 - Pickup Point 1 delivered order be464879-b9b6-43f9-ba33-dfafc59c6891
+11.12.2024 21:14:20 - Worker 3 processed order e75d2024-94d2-4c09-b135-70ab249625b4
+11.12.2024 21:14:22 - Pickup Point 2 delivered order 9c2803ca-9250-460c-b306-eba1694ec302
+11.12.2024 21:14:24 - Worker 2 processed order 505be89f-2f58-41dc-ab2d-45f29e639162
+11.12.2024 21:14:24 - Pickup Point 3 delivered order 7780adb4-88b3-4869-82c6-32e3143b3630
+11.12.2024 21:14:24 - User 2 generated order 11a871e5-8582-4075-b7b2-0181616df275
+11.12.2024 21:14:25 - Worker 7 processed order 427725c4-9477-494c-a061-1dff51a6a27e
+11.12.2024 21:14:25 - Worker 5 processed order 1713833b-ac3d-4bdf-9adf-304e8f4686c3
+11.12.2024 21:14:25 - User 6 generated order 34402642-b499-41cf-9449-788103f0087c
+11.12.2024 21:14:26 - User 13 generated order cac8fcac-098f-44bb-bf61-e866fd94379a
+11.12.2024 21:14:26 - Pickup Point 1 delivered order e75d2024-94d2-4c09-b135-70ab249625b4
+11.12.2024 21:14:27 - Pickup Point 2 delivered order 505be89f-2f58-41dc-ab2d-45f29e639162
+11.12.2024 21:14:27 - Worker 4 processed order aeaa234c-0fac-4529-8b64-e04c1b6df558
+11.12.2024 21:14:27 - User 7 generated order 617e79cf-9081-4f31-8a00-eb1441a7bdcd
+11.12.2024 21:14:29 - Worker 1 processed order a36e509f-8391-45b2-b66b-e705e17cc33c
+11.12.2024 21:14:31 - Pickup Point 3 delivered order 1713833b-ac3d-4bdf-9adf-304e8f4686c3
+11.12.2024 21:14:31 - Pickup Point 1 delivered order 427725c4-9477-494c-a061-1dff51a6a27e
+11.12.2024 21:14:32 - Worker 8 processed order 99cb245b-ff28-4b64-bb8a-1f7ae6b18d58
+11.12.2024 21:14:32 - User 8 generated order fc4c5b5f-d63b-41b3-849c-5def42c15d2a
+11.12.2024 21:14:34 - Pickup Point 3 delivered order a36e509f-8391-45b2-b66b-e705e17cc33c
+11.12.2024 21:14:34 - Pickup Point 2 delivered order aeaa234c-0fac-4529-8b64-e04c1b6df558
+Reached the maximum number of completed orders. Stopping simulation...
+11.12.2024 21:14:34 - Worker 3 processed order 6365a8fc-69ad-48c5-9d39-e339bf213e37
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 72, is proccesed 54, is finished = 31
+11.12.2024 21:16:24 - Simulation started.
+11.12.2024 21:16:41 - User 26 generated order 615ae3b8-027b-4356-b9b0-3a736d795f33
+11.12.2024 21:16:41 - User 1 generated order 48c6b174-2e81-4bac-8f7e-ca3206e65d7e
+11.12.2024 21:16:44 - User 39 generated order dccf107e-4db5-4b7e-bcad-5cd60434d1d4
+11.12.2024 21:16:44 - User 38 generated order 5d28db15-b443-4a57-8ec9-5242de218f2f
+11.12.2024 21:16:46 - User 37 generated order dab0dfa3-459e-425a-9251-782a890303a4
+11.12.2024 21:17:02 - User 43 generated order 06c711d8-680e-4486-b6a7-b714f066b0e6
+11.12.2024 21:17:02 - User 42 generated order 7ebd41fb-e041-434b-a986-510e28ee1e9a
+11.12.2024 21:17:02 - Worker 16 processed order 615ae3b8-027b-4356-b9b0-3a736d795f33
+11.12.2024 21:17:02 - User 5 generated order 0af3dbc0-2359-423a-ba55-e813023ef126
+11.12.2024 21:17:02 - Worker 2 processed order 48c6b174-2e81-4bac-8f7e-ca3206e65d7e
+11.12.2024 21:17:02 - User 45 generated order f3d208db-6111-478b-82a2-7c4168ccd95c
+11.12.2024 21:17:03 - Worker 3 processed order 5d28db15-b443-4a57-8ec9-5242de218f2f
+11.12.2024 21:17:03 - User 31 generated order c38e1c7c-26f7-4be0-89ea-081880113391
+11.12.2024 21:17:13 - User 37 generated order c37202e9-cd6f-4a6f-a5ab-89d0b156c8d6
+11.12.2024 21:17:13 - User 2 generated order 6bcf24c4-12a2-4584-b079-757baa3ae1f2
+11.12.2024 21:17:13 - User 32 generated order 50d913e3-a601-446a-8e30-ab13eab9a280
+11.12.2024 21:17:13 - Worker 9 processed order dab0dfa3-459e-425a-9251-782a890303a4
+11.12.2024 21:17:13 - Pickup Point 3 delivered order 5d28db15-b443-4a57-8ec9-5242de218f2f
+11.12.2024 21:17:14 - User 38 generated order d3f46323-61ca-41c3-8f6f-c9a71003fe1e
+11.12.2024 21:17:14 - Worker 24 processed order 06c711d8-680e-4486-b6a7-b714f066b0e6
+11.12.2024 21:17:14 - Pickup Point 1 delivered order 615ae3b8-027b-4356-b9b0-3a736d795f33
+11.12.2024 21:17:15 - Worker 11 processed order f3d208db-6111-478b-82a2-7c4168ccd95c
+11.12.2024 21:17:15 - User 18 generated order 5ff30ce6-39a4-4b1c-815d-064fd149b572
+11.12.2024 21:17:15 - User 9 generated order f76216e0-64c2-4645-8ea1-630983a71d3a
+11.12.2024 21:17:15 - User 35 generated order e4d3c63f-05e8-455a-af12-3220f2b62d5f
+11.12.2024 21:17:15 - User 8 generated order 400c0c27-4307-49c2-a808-a41a4a2afe2c
+11.12.2024 21:17:15 - User 44 generated order f5d388ed-5f83-4476-9f1e-9ad9f4c0b72a
+11.12.2024 21:17:15 - User 16 generated order 2270bdae-0433-4dc5-b40e-47ac7ee4cfe0
+11.12.2024 21:17:15 - User 15 generated order a2106934-6a4d-4ca4-a316-0f429b09c499
+11.12.2024 21:17:15 - User 24 generated order 4ccca843-bb8f-4efe-b14c-800ecdd84093
+11.12.2024 21:17:15 - User 12 generated order 00857de3-e83c-46e4-bedf-c92380b0e45c
+11.12.2024 21:17:15 - Worker 8 processed order dccf107e-4db5-4b7e-bcad-5cd60434d1d4
+11.12.2024 21:17:15 - Pickup Point 2 delivered order 48c6b174-2e81-4bac-8f7e-ca3206e65d7e
+11.12.2024 21:17:15 - User 34 generated order dfe9ffab-1d02-4f56-9ede-46b2beb94463
+11.12.2024 21:17:15 - User 28 generated order 8a840986-7435-4fb1-9382-b2feecd96ced
+11.12.2024 21:17:15 - User 27 generated order a3fd48bb-e8dc-4de0-9f21-165cf05a8661
+11.12.2024 21:17:15 - User 25 generated order 3364c5af-f654-4728-9c19-bc7862d55d81
+11.12.2024 21:17:15 - User 22 generated order 0aad867c-ceb4-4332-8f81-b018da0bb110
+11.12.2024 21:17:15 - User 10 generated order d321fb78-bd3f-41cb-ad3f-8994f6d625be
+11.12.2024 21:17:15 - User 6 generated order 276cf21d-6732-4274-bbeb-f27eb67283d2
+11.12.2024 21:17:15 - User 3 generated order 998aad00-129a-4ec5-bf27-704b5eafae1a
+11.12.2024 21:17:15 - User 21 generated order 90a2d293-6b22-4aca-a8f3-c8acab5f8aa8
+11.12.2024 21:17:15 - User 17 generated order e6ef4f93-c58b-4199-abfe-af9476a1c1bd
+11.12.2024 21:17:15 - User 41 generated order 1f47bc9f-657e-459c-9ae8-1913d04c113e
+11.12.2024 21:17:15 - User 33 generated order c44ee037-2580-48e5-b5fe-f093c6a7f574
+11.12.2024 21:17:15 - User 40 generated order e381a9dd-fe33-4fb1-beac-dd87c9d40c80
+11.12.2024 21:17:15 - User 29 generated order 635c19db-e2db-4fac-8845-55177d7a55ed
+11.12.2024 21:17:15 - User 13 generated order eedf2f16-ae6b-43cc-8b16-e24229b67ae3
+11.12.2024 21:17:15 - User 4 generated order 56ef9219-84f6-4e1a-a351-8226f7f353aa
+11.12.2024 21:17:15 - User 11 generated order 9ea95095-d8d0-4633-bd4e-551d1f9a22c4
+11.12.2024 21:17:15 - User 20 generated order 99feb6a0-153e-4c91-a125-311b10342532
+11.12.2024 21:17:15 - User 36 generated order c3e04fac-d78c-4488-8e06-65a3f886a923
+11.12.2024 21:17:15 - User 30 generated order ba6408ab-ee13-45e5-bc16-0c54908f98ac
+11.12.2024 21:17:15 - User 7 generated order 5d7ca487-4e1e-4450-b778-1c85f4cf7b73
+11.12.2024 21:17:15 - User 23 generated order cd05e85a-d678-40d8-bca0-384c4a1c41fa
+11.12.2024 21:17:15 - User 19 generated order 450e01e7-117c-4e4c-9c37-c97dbca24bc0
+11.12.2024 21:17:15 - User 14 generated order 55143dc8-87ca-4587-8be6-8b9463feba70
+11.12.2024 21:17:15 - Worker 18 processed order c38e1c7c-26f7-4be0-89ea-081880113391
+11.12.2024 21:17:16 - User 26 generated order 0f00657f-0b34-4d13-935e-f96af9e7af49
+11.12.2024 21:17:16 - Pickup Point 7 delivered order dab0dfa3-459e-425a-9251-782a890303a4
+11.12.2024 21:17:18 - Pickup Point 5 delivered order 06c711d8-680e-4486-b6a7-b714f066b0e6
+11.12.2024 21:17:18 - User 1 generated order 8bfbbbd6-3f13-407b-9088-aa8c0ac792e1
+11.12.2024 21:17:19 - Pickup Point 6 delivered order f3d208db-6111-478b-82a2-7c4168ccd95c
+11.12.2024 21:17:19 - Pickup Point 1 delivered order dccf107e-4db5-4b7e-bcad-5cd60434d1d4
+11.12.2024 21:17:19 - Worker 17 processed order 0af3dbc0-2359-423a-ba55-e813023ef126
+11.12.2024 21:17:21 - Worker 5 processed order 7ebd41fb-e041-434b-a986-510e28ee1e9a
+11.12.2024 21:17:21 - Pickup Point 2 delivered order c38e1c7c-26f7-4be0-89ea-081880113391
+11.12.2024 21:17:24 - User 39 generated order d5447a27-1cb0-461d-9146-3e40ae4017f5
+11.12.2024 21:17:24 - Pickup Point 1 delivered order 0af3dbc0-2359-423a-ba55-e813023ef126
+11.12.2024 21:17:25 - Worker 8 processed order d321fb78-bd3f-41cb-ad3f-8994f6d625be
+11.12.2024 21:17:25 - Pickup Point 5 delivered order 7ebd41fb-e041-434b-a986-510e28ee1e9a
+11.12.2024 21:17:26 - Worker 19 processed order 2270bdae-0433-4dc5-b40e-47ac7ee4cfe0
+11.12.2024 21:17:26 - Worker 7 processed order ba6408ab-ee13-45e5-bc16-0c54908f98ac
+11.12.2024 21:17:26 - Worker 14 processed order 1f47bc9f-657e-459c-9ae8-1913d04c113e
+11.12.2024 21:17:26 - Worker 2 processed order 6bcf24c4-12a2-4584-b079-757baa3ae1f2
+11.12.2024 21:17:28 - Worker 16 processed order e4d3c63f-05e8-455a-af12-3220f2b62d5f
+11.12.2024 21:17:28 - Worker 12 processed order a2106934-6a4d-4ca4-a316-0f429b09c499
+11.12.2024 21:17:28 - Worker 11 processed order 450e01e7-117c-4e4c-9c37-c97dbca24bc0
+11.12.2024 21:17:28 - Pickup Point 7 delivered order d321fb78-bd3f-41cb-ad3f-8994f6d625be
+11.12.2024 21:17:29 - Pickup Point 2 delivered order ba6408ab-ee13-45e5-bc16-0c54908f98ac
+11.12.2024 21:17:29 - Worker 18 processed order 276cf21d-6732-4274-bbeb-f27eb67283d2
+11.12.2024 21:17:30 - Pickup Point 3 delivered order 1f47bc9f-657e-459c-9ae8-1913d04c113e
+11.12.2024 21:17:30 - Worker 10 processed order 9ea95095-d8d0-4633-bd4e-551d1f9a22c4
+11.12.2024 21:17:30 - Pickup Point 5 delivered order 2270bdae-0433-4dc5-b40e-47ac7ee4cfe0
+Reached the maximum number of completed orders. Stopping simulation...
+11.12.2024 21:17:30 - Worker 22 processed order 00857de3-e83c-46e4-bedf-c92380b0e45c
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 6, PickupQueue = 0
+Order is created 450, is proccesed 189, is finished = 90
+11.12.2024 21:22:59 - Simulation started.
+11.12.2024 21:23:15 - User 4 generated order 065901eb-f0f9-4b99-8552-a75e09edecfd
+11.12.2024 21:23:15 - User 25 generated order 56467083-55f6-45fe-b67a-3f7d3cea8444
+11.12.2024 21:23:18 - User 20 generated order 9222b479-d4bc-4c0b-a542-3cd69a75a071
+11.12.2024 21:23:18 - User 5 generated order 23d4e0bd-73af-40b8-a0ee-788d24e773b6
+11.12.2024 21:23:18 - User 36 generated order 1c79814a-3e1a-4afb-b953-7042bf5201d4
+11.12.2024 21:23:18 - User 8 generated order 52433b2c-2172-4e7d-94cf-dd8d9520f610
+11.12.2024 21:23:21 - User 30 generated order 67412a24-8bdb-4c69-a8c7-8f024a855e8d
+11.12.2024 21:23:22 - User 43 generated order 937e03c1-fefe-4d70-92b6-85bafa780e83
+11.12.2024 21:23:22 - User 31 generated order e95ee6df-bfad-49e0-ae57-27605d4408cb
+11.12.2024 21:23:22 - User 34 generated order a9bc158f-1533-42d6-a0d2-ca983f556348
+11.12.2024 21:23:22 - User 3 generated order 271fbe8a-70b9-433b-9005-a94a3326c491
+11.12.2024 21:23:22 - User 28 generated order a75abfe2-bbec-43d9-b53a-a1bff48efc4f
+11.12.2024 21:23:22 - User 19 generated order 02862d7e-bc41-459f-9d5e-4f18cca0b501
+11.12.2024 21:23:22 - User 26 generated order 94a557a8-cd32-4fd5-a813-691e24c8c9a7
+11.12.2024 21:23:22 - User 23 generated order 4d4d98b7-1ff7-4d5c-865b-d65cd10f6139
+11.12.2024 21:23:22 - User 9 generated order dd0e2bf2-8048-453f-98c4-f19c9a1d25c1
+11.12.2024 21:23:23 - User 10 generated order 3d4dc75c-d80c-4f9c-8d80-eabea0ad8eb6
+11.12.2024 21:23:23 - User 1 generated order 9cc57412-fb38-4ab3-8aff-fb9b18e5ad85
+11.12.2024 21:23:24 - User 24 generated order 86caa5e9-d356-4271-9134-2db5ee0967d4
+11.12.2024 21:23:24 - User 42 generated order e7d517ca-f776-42ea-9d46-a32399baacf4
+11.12.2024 21:23:24 - User 37 generated order 7fa96ca4-9d36-4ff7-b6ef-42e59b24cebc
+11.12.2024 21:23:24 - User 2 generated order 62d54bef-3904-4d7f-ab56-0bc5ea1bd7c0
+11.12.2024 21:23:24 - User 11 generated order 9ef1ab50-7c92-4687-845d-7ccf7839840b
+11.12.2024 21:23:25 - User 13 generated order 99993fb3-33a4-44b9-ad8c-4b116efbf1f2
+11.12.2024 21:23:27 - User 45 generated order 9127337a-b722-448f-8379-d2c7a8c3794b
+11.12.2024 21:23:29 - User 16 generated order 86acf3c1-6f8f-44b2-b96c-db2ccd0bc8dc
+11.12.2024 21:23:29 - Worker 12 processed order 52433b2c-2172-4e7d-94cf-dd8d9520f610
+11.12.2024 21:23:29 - Worker 1 processed order 065901eb-f0f9-4b99-8552-a75e09edecfd
+11.12.2024 21:23:32 - Worker 4 processed order 1c79814a-3e1a-4afb-b953-7042bf5201d4
+11.12.2024 21:23:32 - Worker 6 processed order 9222b479-d4bc-4c0b-a542-3cd69a75a071
+11.12.2024 21:23:32 - Worker 23 processed order 23d4e0bd-73af-40b8-a0ee-788d24e773b6
+11.12.2024 21:23:32 - User 29 generated order cb98b51f-cb67-4e4c-8e26-607172b7260f
+11.12.2024 21:23:32 - User 39 generated order 2879399f-8bfd-4098-8d31-8f18774e961b
+11.12.2024 21:23:32 - User 27 generated order 8bd667e2-4dfd-4de5-8a07-c93aaae05540
+11.12.2024 21:23:32 - User 12 generated order 591e5011-b5a2-4ab4-b972-bcffe4ad533d
+11.12.2024 21:23:32 - Worker 2 processed order 271fbe8a-70b9-433b-9005-a94a3326c491
+11.12.2024 21:23:33 - User 33 generated order b0790474-18d3-4d24-bf82-8e41566d94b8
+11.12.2024 21:23:33 - User 40 generated order c5624377-95b2-4ce1-a67a-eee0c0af4ac0
+11.12.2024 21:23:33 - Worker 10 processed order 67412a24-8bdb-4c69-a8c7-8f024a855e8d
+11.12.2024 21:23:33 - Pickup Point 7 delivered order 52433b2c-2172-4e7d-94cf-dd8d9520f610
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 1, PickupQueue = 0
+Order is created 288, is proccesed 63, is finished = 3
+11.12.2024 21:24:38 - Simulation started.
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 0, is proccesed 0, is finished = 0
+11.12.2024 21:24:42 - Simulation started.
+11.12.2024 21:25:02 - User 43 generated order 1b590331-973d-48e8-a6bb-4ab2f8c08aad
+11.12.2024 21:25:02 - User 44 generated order 766c1c8b-04d9-4334-b10f-69d4637bcf23
+11.12.2024 21:25:02 - User 5 generated order 017121a5-565b-44ee-a741-9a3c94d7916c
+11.12.2024 21:25:02 - User 10 generated order b6096009-880c-454a-9b7e-cfdeded1b9c9
+11.12.2024 21:25:03 - User 30 generated order 19ada7c2-a482-4e1a-8849-d84565eb7f41
+11.12.2024 21:25:06 - User 11 generated order 09470bfa-75ad-476c-b236-8b15aa1da72a
+11.12.2024 21:25:06 - User 32 generated order f16981fa-d17d-4bd2-8f9e-4308249a2cea
+11.12.2024 21:25:08 - User 34 generated order f5b73938-746e-4fb7-a5c6-3fb41a7798c4
+11.12.2024 21:25:10 - User 33 generated order 9f7545fa-98b2-4dc4-8968-10f384ffd458
+11.12.2024 21:25:13 - User 19 generated order 2b638a01-8f81-4d07-a8a8-5edba95f0131
+11.12.2024 21:25:13 - User 3 generated order 258f4e16-205e-4361-b826-a8a84bb86ee7
+11.12.2024 21:25:13 - Worker 10 processed order 1b590331-973d-48e8-a6bb-4ab2f8c08aad
+11.12.2024 21:25:14 - User 2 generated order 7271a585-7647-4810-8917-6091febfb0c0
+11.12.2024 21:25:16 - User 40 generated order b3cb4827-b2f1-4fe8-822f-2cf913cc8339
+11.12.2024 21:25:16 - Worker 16 processed order 19ada7c2-a482-4e1a-8849-d84565eb7f41
+11.12.2024 21:25:17 - User 24 generated order f53e0e70-4775-4e41-a367-b42570f5e061
+11.12.2024 21:25:17 - User 42 generated order 0903b294-dc9f-44fb-ab25-f0296aa5f426
+11.12.2024 21:25:17 - User 35 generated order 5bb83435-a43d-4fed-a042-d1ab23d7ed75
+11.12.2024 21:25:17 - User 27 generated order 1fd0c22b-4fda-4593-bdd5-f015f10868f5
+11.12.2024 21:25:17 - User 22 generated order 2740d249-1d08-4ac1-b930-9c4d32a081f4
+11.12.2024 21:25:17 - User 16 generated order 04fb8abd-3033-4852-987c-33046aaad60c
+11.12.2024 21:25:17 - User 23 generated order 28e96183-a57f-467b-a03d-b57ce1a33aff
+11.12.2024 21:25:17 - User 28 generated order 8463937e-a7e2-4267-a198-b337f5703393
+11.12.2024 21:25:17 - User 4 generated order d8c84443-2ffb-4ebd-94fa-778acc2f0764
+11.12.2024 21:25:17 - User 14 generated order 47aea18f-6be3-40bf-a113-357168ee928d
+11.12.2024 21:25:17 - User 21 generated order c3271e6c-2d35-4a2e-8480-a3427eaff350
+11.12.2024 21:25:17 - User 8 generated order 478f92f6-88f8-483b-b5a3-91dfbab0c197
+11.12.2024 21:25:17 - User 41 generated order 5bf75b4e-c760-44a6-af6d-1a193e4d927c
+11.12.2024 21:25:17 - User 15 generated order 49f07477-1400-411d-b7c7-a6acb6e8b229
+11.12.2024 21:25:17 - Worker 3 processed order 017121a5-565b-44ee-a741-9a3c94d7916c
+11.12.2024 21:25:18 - User 18 generated order 7a53a54e-3c89-4c23-a1c0-a8656c5fc518
+11.12.2024 21:25:18 - User 13 generated order 421ae5bb-363b-44bd-ba7f-4b65824ae455
+11.12.2024 21:25:18 - Worker 18 processed order f5b73938-746e-4fb7-a5c6-3fb41a7798c4
+11.12.2024 21:25:18 - User 5 generated order 56234dc5-83ee-4d1b-b2ba-43d8fd8dfa3e
+11.12.2024 21:25:18 - Worker 2 processed order b6096009-880c-454a-9b7e-cfdeded1b9c9
+11.12.2024 21:25:19 - User 31 generated order faca68a1-8658-4235-b5e6-f1c660bb1d27
+11.12.2024 21:25:19 - User 9 generated order f72f60ef-68c3-409f-936b-36f87145173f
+11.12.2024 21:25:19 - User 38 generated order 8f73801e-1b0c-4de5-80c8-96146e8624f6
+11.12.2024 21:25:19 - User 26 generated order bec637ea-608e-41de-a11d-d4c35ef313bf
+11.12.2024 21:25:19 - User 17 generated order 648a2373-6854-4ca4-8db0-653e52462d55
+11.12.2024 21:25:19 - User 6 generated order 454ce1b6-f78d-47f1-8e8a-8d9eedfbf35a
+11.12.2024 21:25:19 - Worker 17 processed order 09470bfa-75ad-476c-b236-8b15aa1da72a
+11.12.2024 21:25:20 - User 7 generated order 54fadbbd-b6dd-4fec-9733-5a31b71ec8d8
+11.12.2024 21:25:20 - Pickup Point 5 delivered order 19ada7c2-a482-4e1a-8849-d84565eb7f41
+11.12.2024 21:25:20 - Worker 13 processed order 766c1c8b-04d9-4334-b10f-69d4637bcf23
+11.12.2024 21:25:20 - Pickup Point 3 delivered order 1b590331-973d-48e8-a6bb-4ab2f8c08aad
+11.12.2024 21:25:21 - Worker 19 processed order f16981fa-d17d-4bd2-8f9e-4308249a2cea
+11.12.2024 21:25:21 - Pickup Point 4 delivered order b6096009-880c-454a-9b7e-cfdeded1b9c9
+11.12.2024 21:25:23 - User 45 generated order 1192b56e-a701-4d49-b008-c5ab3d6e7cd9
+11.12.2024 21:25:23 - Worker 15 processed order 2b638a01-8f81-4d07-a8a8-5edba95f0131
+11.12.2024 21:25:23 - User 11 generated order 32ff7b05-40ed-4b5f-ade0-3afb9c25a6e6
+11.12.2024 21:25:24 - User 20 generated order 666f0728-fddb-4e67-b76f-2b71223fdc47
+11.12.2024 21:25:24 - User 1 generated order fcdd113d-d1d3-44e2-8bfc-0c588bd51f0d
+11.12.2024 21:25:24 - Pickup Point 1 delivered order f5b73938-746e-4fb7-a5c6-3fb41a7798c4
+11.12.2024 21:25:24 - Pickup Point 9 delivered order 017121a5-565b-44ee-a741-9a3c94d7916c
+11.12.2024 21:25:25 - Pickup Point 7 delivered order 766c1c8b-04d9-4334-b10f-69d4637bcf23
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 8, PickupQueue = 0
+Order is created 369, is proccesed 81, is finished = 31
+11.12.2024 21:26:09 - Simulation started.
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 0, is proccesed 0, is finished = 0
+11.12.2024 21:26:16 - Simulation started.
+11.12.2024 21:26:39 - User 43 generated order 28ac963d-fa9f-4959-b8ca-d160b3ec659e
+11.12.2024 21:26:39 - User 40 generated order f604e269-e282-4c59-9686-c281e4e3a285
+11.12.2024 21:26:39 - User 22 generated order 8ac37f65-25f9-44b2-bbce-c61fb5725823
+11.12.2024 21:26:39 - User 28 generated order 702a0ac7-b6bc-4910-a73c-36b5611624ac
+11.12.2024 21:26:41 - User 26 generated order 485e39a2-a2d2-49e7-88ba-ad00dbbf7fca
+11.12.2024 21:26:41 - User 3 generated order 9f991051-e99e-4d82-a067-999a9b727bb4
+11.12.2024 21:26:42 - User 44 generated order ebc9344f-f6c9-433a-828c-73b598c48829
+11.12.2024 21:26:42 - User 39 generated order 7b8d5dbb-c1a1-4e7f-a878-d7a33ddd4777
+11.12.2024 21:26:42 - User 23 generated order a278b18e-a2b6-432d-9753-be4060eeb472
+11.12.2024 21:26:42 - User 42 generated order 39b720cd-b21c-4e76-be85-f3dce9467f70
+11.12.2024 21:26:44 - User 38 generated order 0f3c0885-5542-4d97-9c28-8a781a595b0d
+11.12.2024 21:26:44 - User 41 generated order 822d9456-c7d0-4582-84e3-e857e310bef3
+11.12.2024 21:26:44 - User 32 generated order d9c90390-54fd-4453-aed4-3bfa2a7bcb63
+11.12.2024 21:26:48 - User 34 generated order bf879210-41c2-423a-aafc-d7262b3f0e08
+11.12.2024 21:26:48 - User 18 generated order 71d0c1c4-d112-49bf-b322-8aa97b278ed6
+11.12.2024 21:26:48 - User 33 generated order 3f6e5a40-adc1-4c94-a6cd-2ae83f466f95
+11.12.2024 21:26:55 - User 8 generated order 673355b6-8045-45e7-ab6c-c915e1e1f19b
+11.12.2024 21:26:55 - User 24 generated order 1a748e33-85cd-4507-b597-ef4a477c3cf0
+11.12.2024 21:26:55 - User 20 generated order 3bd69a77-d629-4018-be6a-b3d7ca22d747
+11.12.2024 21:26:55 - User 6 generated order 6fe58053-0cbe-4696-a829-6fbd730922ac
+11.12.2024 21:26:55 - User 5 generated order 1ae111db-7ccd-4ae4-b8da-4e05b8d2f478
+11.12.2024 21:26:55 - User 25 generated order 14f42408-92bf-4311-b28c-069e22b2f5f5
+11.12.2024 21:26:55 - Worker 19 processed order a278b18e-a2b6-432d-9753-be4060eeb472
+11.12.2024 21:26:55 - Worker 8 processed order 39b720cd-b21c-4e76-be85-f3dce9467f70
+11.12.2024 21:26:55 - Worker 1 processed order 7b8d5dbb-c1a1-4e7f-a878-d7a33ddd4777
+11.12.2024 21:26:55 - User 29 generated order 8e74ffcb-180c-4a53-9105-8184c4805f4d
+11.12.2024 21:26:55 - User 17 generated order 5710b699-8ded-4a52-afe0-b72348c37827
+11.12.2024 21:26:55 - User 11 generated order 0a176936-3efd-4852-af7c-35a5d4410047
+11.12.2024 21:26:55 - User 10 generated order d28c65ff-e15e-45fd-87db-1b42714ef523
+11.12.2024 21:26:55 - User 4 generated order e2af0ae3-ed25-4329-a276-c6c1fbfbcc1f
+11.12.2024 21:26:55 - User 35 generated order 8fc6924c-87da-4697-aaab-abc9aa7eb517
+11.12.2024 21:26:55 - User 19 generated order 6c25df00-58ee-4c09-a256-db841550c4ee
+11.12.2024 21:26:55 - User 14 generated order b976eb3e-c464-43df-b702-a0f0adc41cbd
+11.12.2024 21:26:55 - Worker 3 processed order ebc9344f-f6c9-433a-828c-73b598c48829
+11.12.2024 21:26:56 - User 12 generated order 6d95c857-76da-4f8b-b6da-e13262019cc4
+11.12.2024 21:26:56 - User 31 generated order ae0e9516-30c8-4fde-be05-c89508c4b2c3
+11.12.2024 21:26:56 - User 37 generated order a9f685f1-bfab-4d37-80eb-9a5eea251d05
+11.12.2024 21:26:56 - User 22 generated order ea256a45-076b-4162-b9fc-2d57792235da
+11.12.2024 21:26:56 - User 7 generated order cb41ccb6-4903-446e-82bc-2a10c9747336
+11.12.2024 21:26:56 - User 27 generated order 6246924a-1afa-4f74-bc1f-1220afe16652
+11.12.2024 21:26:56 - User 45 generated order 914e9687-269d-49bb-a7bc-0d6d90f5ea9e
+11.12.2024 21:26:56 - User 15 generated order cc96a672-23ba-4c37-ba18-868f13d2fe48
+11.12.2024 21:26:56 - User 9 generated order 6be7c064-f888-4c51-9dd3-c88ea3a9d57c
+11.12.2024 21:26:56 - Worker 4 processed order f604e269-e282-4c59-9686-c281e4e3a285
+11.12.2024 21:26:56 - Worker 6 processed order 28ac963d-fa9f-4959-b8ca-d160b3ec659e
+11.12.2024 21:26:56 - Worker 13 processed order 8ac37f65-25f9-44b2-bbce-c61fb5725823
+11.12.2024 21:26:56 - Worker 15 processed order 9f991051-e99e-4d82-a067-999a9b727bb4
+11.12.2024 21:26:56 - User 21 generated order f4300865-f066-4e9b-be5f-251bf8e99a24
+11.12.2024 21:26:56 - User 2 generated order 66e8ff4c-b538-4cd6-911f-1831469dc00b
+11.12.2024 21:26:56 - User 13 generated order 9cbfe287-097a-4cb0-ada4-840d2f6d7b54
+11.12.2024 21:26:56 - Worker 12 processed order 702a0ac7-b6bc-4910-a73c-36b5611624ac
+11.12.2024 21:26:57 - Worker 11 processed order 485e39a2-a2d2-49e7-88ba-ad00dbbf7fca
+11.12.2024 21:26:57 - User 16 generated order abca1085-5d5b-4ac1-8422-6f3799244dcd
+11.12.2024 21:26:57 - Worker 23 processed order 822d9456-c7d0-4582-84e3-e857e310bef3
+11.12.2024 21:26:58 - Worker 21 processed order 0f3c0885-5542-4d97-9c28-8a781a595b0d
+11.12.2024 21:26:59 - User 30 generated order af32f9f8-551c-42ae-a312-2c245c181e90
+11.12.2024 21:26:59 - Pickup Point 1 delivered order 39b720cd-b21c-4e76-be85-f3dce9467f70
+11.12.2024 21:26:59 - User 40 generated order 61ab57e1-8a81-4d3a-ab5a-8c90b1dfeb7b
+11.12.2024 21:27:00 - Pickup Point 4 delivered order f604e269-e282-4c59-9686-c281e4e3a285
+11.12.2024 21:27:00 - Pickup Point 5 delivered order 8ac37f65-25f9-44b2-bbce-c61fb5725823
+11.12.2024 21:27:00 - Worker 2 processed order 3f6e5a40-adc1-4c94-a6cd-2ae83f466f95
+11.12.2024 21:27:00 - User 36 generated order f07df2fd-3800-406e-8214-8195cbd0fd42
+11.12.2024 21:27:00 - User 1 generated order 37d157e7-5dd8-4671-9424-76c0ce7a4e21
+11.12.2024 21:27:00 - Pickup Point 9 delivered order 7b8d5dbb-c1a1-4e7f-a878-d7a33ddd4777
+11.12.2024 21:27:01 - Worker 18 processed order 71d0c1c4-d112-49bf-b322-8aa97b278ed6
+11.12.2024 21:27:01 - Pickup Point 3 delivered order 702a0ac7-b6bc-4910-a73c-36b5611624ac
+11.12.2024 21:27:01 - Pickup Point 8 delivered order ebc9344f-f6c9-433a-828c-73b598c48829
+11.12.2024 21:27:01 - User 44 generated order 2564116a-c077-41bc-89d9-562bbb1dc821
+11.12.2024 21:27:02 - Pickup Point 7 delivered order 28ac963d-fa9f-4959-b8ca-d160b3ec659e
+11.12.2024 21:27:02 - Pickup Point 2 delivered order 9f991051-e99e-4d82-a067-999a9b727bb4
+11.12.2024 21:27:02 - User 23 generated order 975eebee-ef7b-44ad-a89e-c483da85355f
+11.12.2024 21:27:02 - Worker 20 processed order d9c90390-54fd-4453-aed4-3bfa2a7bcb63
+11.12.2024 21:27:02 - Pickup Point 6 delivered order a278b18e-a2b6-432d-9753-be4060eeb472
+11.12.2024 21:27:03 - Pickup Point 4 delivered order 822d9456-c7d0-4582-84e3-e857e310bef3
+11.12.2024 21:27:04 - Pickup Point 5 delivered order 0f3c0885-5542-4d97-9c28-8a781a595b0d
+11.12.2024 21:27:04 - User 42 generated order 83e8c71b-fb2d-4f51-839c-49a5230e7ded
+11.12.2024 21:27:04 - Pickup Point 1 delivered order 485e39a2-a2d2-49e7-88ba-ad00dbbf7fca
+11.12.2024 21:27:05 - Worker 9 processed order 8e74ffcb-180c-4a53-9105-8184c4805f4d
+11.12.2024 21:27:05 - Worker 16 processed order 0a176936-3efd-4852-af7c-35a5d4410047
+11.12.2024 21:27:06 - Worker 24 processed order bf879210-41c2-423a-aafc-d7262b3f0e08
+11.12.2024 21:27:07 - User 3 generated order 60405a98-a931-4206-bd79-33883ea1d6e9
+11.12.2024 21:27:07 - Pickup Point 3 delivered order 71d0c1c4-d112-49bf-b322-8aa97b278ed6
+11.12.2024 21:27:07 - User 43 generated order 8d057750-c62b-4082-a860-38dfda46bef0
+11.12.2024 21:27:07 - Worker 7 processed order 1ae111db-7ccd-4ae4-b8da-4e05b8d2f478
+11.12.2024 21:27:07 - Pickup Point 9 delivered order 3f6e5a40-adc1-4c94-a6cd-2ae83f466f95
+11.12.2024 21:27:07 - Worker 14 processed order 5710b699-8ded-4a52-afe0-b72348c37827
+11.12.2024 21:27:08 - User 28 generated order 6090f0ca-9e9d-4913-8203-556eb8121276
+11.12.2024 21:27:09 - Pickup Point 8 delivered order d9c90390-54fd-4453-aed4-3bfa2a7bcb63
+11.12.2024 21:27:09 - Pickup Point 2 delivered order 8e74ffcb-180c-4a53-9105-8184c4805f4d
+11.12.2024 21:27:10 - Worker 19 processed order d28c65ff-e15e-45fd-87db-1b42714ef523
+11.12.2024 21:27:10 - Worker 1 processed order 8fc6924c-87da-4697-aaab-abc9aa7eb517
+11.12.2024 21:27:10 - Worker 17 processed order 673355b6-8045-45e7-ab6c-c915e1e1f19b
+11.12.2024 21:27:10 - Pickup Point 5 delivered order 1ae111db-7ccd-4ae4-b8da-4e05b8d2f478
+11.12.2024 21:27:11 - User 10 generated order e98bd331-102d-4653-b6e2-4ca0678ac4a1
+11.12.2024 21:27:11 - User 37 generated order 6ea98af6-cfb1-4656-aa7c-05666d02f78d
+11.12.2024 21:27:11 - User 26 generated order 33ede08a-cd23-4044-a026-ac8c2c899316
+11.12.2024 21:27:11 - Worker 12 processed order a9f685f1-bfab-4d37-80eb-9a5eea251d05
+11.12.2024 21:27:12 - Pickup Point 6 delivered order 0a176936-3efd-4852-af7c-35a5d4410047
+11.12.2024 21:27:13 - Worker 8 processed order e2af0ae3-ed25-4329-a276-c6c1fbfbcc1f
+11.12.2024 21:27:13 - Pickup Point 4 delivered order bf879210-41c2-423a-aafc-d7262b3f0e08
+11.12.2024 21:27:13 - Worker 22 processed order 1a748e33-85cd-4507-b597-ef4a477c3cf0
+11.12.2024 21:27:14 - User 6 generated order a12b951f-d9bd-4653-994a-c787190082f1
+11.12.2024 21:27:14 - Worker 6 processed order 6fe58053-0cbe-4696-a829-6fbd730922ac
+11.12.2024 21:27:14 - Worker 13 processed order 6d95c857-76da-4f8b-b6da-e13262019cc4
+11.12.2024 21:27:14 - Worker 15 processed order ae0e9516-30c8-4fde-be05-c89508c4b2c3
+11.12.2024 21:27:14 - Worker 20 processed order 6be7c064-f888-4c51-9dd3-c88ea3a9d57c
+11.12.2024 21:27:14 - Worker 5 processed order 14f42408-92bf-4311-b28c-069e22b2f5f5
+11.12.2024 21:27:14 - User 34 generated order 0a768d09-fe74-4dcc-832f-727ed5052944
+11.12.2024 21:27:14 - Pickup Point 7 delivered order 5710b699-8ded-4a52-afe0-b72348c37827
+11.12.2024 21:27:14 - User 41 generated order e425c1db-6ce1-4949-a535-5e14ed21a4db
+11.12.2024 21:27:14 - User 32 generated order 236c8170-6f47-4fc5-b935-d148282e3153
+11.12.2024 21:27:15 - Pickup Point 8 delivered order d28c65ff-e15e-45fd-87db-1b42714ef523
+11.12.2024 21:27:15 - Pickup Point 1 delivered order 8fc6924c-87da-4697-aaab-abc9aa7eb517
+11.12.2024 21:27:15 - Worker 4 processed order b976eb3e-c464-43df-b702-a0f0adc41cbd
+11.12.2024 21:27:15 - User 21 generated order 0d9e01a8-7d57-4d0a-abb2-ca066f40ebd0
+11.12.2024 21:27:15 - Worker 23 processed order cb41ccb6-4903-446e-82bc-2a10c9747336
+11.12.2024 21:27:15 - Worker 10 processed order 3bd69a77-d629-4018-be6a-b3d7ca22d747
+11.12.2024 21:27:15 - Pickup Point 2 delivered order 673355b6-8045-45e7-ab6c-c915e1e1f19b
+11.12.2024 21:27:15 - Worker 9 processed order f4300865-f066-4e9b-be5f-251bf8e99a24
+11.12.2024 21:27:16 - Worker 3 processed order 6c25df00-58ee-4c09-a256-db841550c4ee
+11.12.2024 21:27:16 - User 45 generated order 4f2cf51e-b4ab-4632-8938-7ab1f4a1a6e4
+11.12.2024 21:27:16 - User 18 generated order a25021e7-5130-4251-ab3f-1aa5df42163a
+11.12.2024 21:27:17 - User 39 generated order ba1414ca-ce0f-458a-82cf-52f565d5240e
+11.12.2024 21:27:17 - Worker 11 processed order ea256a45-076b-4162-b9fc-2d57792235da
+11.12.2024 21:27:17 - Pickup Point 3 delivered order a9f685f1-bfab-4d37-80eb-9a5eea251d05
+11.12.2024 21:27:17 - Worker 21 processed order 6246924a-1afa-4f74-bc1f-1220afe16652
+11.12.2024 21:27:17 - Worker 7 processed order abca1085-5d5b-4ac1-8422-6f3799244dcd
+11.12.2024 21:27:18 - User 25 generated order 94e94b35-395b-4661-8898-d5d73b655c26
+11.12.2024 21:27:18 - Pickup Point 9 delivered order e2af0ae3-ed25-4329-a276-c6c1fbfbcc1f
+11.12.2024 21:27:18 - User 35 generated order d6a3847b-dd36-4cde-a90a-63ec35800642
+11.12.2024 21:27:18 - Pickup Point 6 delivered order 6fe58053-0cbe-4696-a829-6fbd730922ac
+11.12.2024 21:27:18 - Worker 2 processed order 914e9687-269d-49bb-a7bc-0d6d90f5ea9e
+11.12.2024 21:27:18 - Pickup Point 2 delivered order b976eb3e-c464-43df-b702-a0f0adc41cbd
+11.12.2024 21:27:19 - User 5 generated order e84f9b1a-fd10-4587-b042-26d2067584df
+11.12.2024 21:27:19 - Pickup Point 1 delivered order 14f42408-92bf-4311-b28c-069e22b2f5f5
+11.12.2024 21:27:19 - Worker 24 processed order 9cbfe287-097a-4cb0-ada4-840d2f6d7b54
+11.12.2024 21:27:19 - Worker 18 processed order cc96a672-23ba-4c37-ba18-868f13d2fe48
+11.12.2024 21:27:19 - User 16 generated order 185e79ea-e6bc-44f8-8fd8-0b4cb6d73102
+11.12.2024 21:27:19 - Pickup Point 4 delivered order 1a748e33-85cd-4507-b597-ef4a477c3cf0
+11.12.2024 21:27:19 - Pickup Point 7 delivered order 6d95c857-76da-4f8b-b6da-e13262019cc4
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 2, PickupQueue = 5
+Order is created 612, is proccesed 378, is finished = 158
+11.12.2024 21:31:27 - Simulation started.
+11.12.2024 21:31:53 - User 6 generated order cdca6376-70c9-4da9-8d59-cd672efaf6fc
+11.12.2024 21:31:53 - User 42 generated order 51e0fd00-a0c9-4098-8c78-7e07e049cdbb
+11.12.2024 21:31:53 - User 43 generated order b3c95e86-c02d-43b3-a347-e48cbb58f1cc
+11.12.2024 21:32:07 - User 44 generated order 2740f347-e6ad-484b-bc4f-732ebe59d0fb
+11.12.2024 21:32:07 - User 40 generated order a336a80f-a072-4316-bc43-132fb10898e2
+11.12.2024 21:32:07 - User 1 generated order ded3c7bf-0388-4d7c-8f0f-62bbea5a954a
+11.12.2024 21:32:07 - Worker 13 processed order cdca6376-70c9-4da9-8d59-cd672efaf6fc
+11.12.2024 21:32:07 - User 7 generated order f1155124-038e-4339-8f6b-6c70cc893b90
+11.12.2024 21:32:07 - Worker 7 processed order 51e0fd00-a0c9-4098-8c78-7e07e049cdbb
+11.12.2024 21:32:23 - User 42 generated order b4764508-f39d-4f83-a5e4-007a3766a37f
+11.12.2024 21:32:23 - User 38 generated order 77cb3dc3-6639-48ca-992d-0fc0b30d9eef
+11.12.2024 21:32:23 - User 34 generated order e26907bf-e4aa-4a30-b720-52885024860c
+11.12.2024 21:32:23 - User 6 generated order df8c0498-c3d6-412f-9d74-2b4ebf7b540e
+11.12.2024 21:32:23 - Worker 1 processed order b3c95e86-c02d-43b3-a347-e48cbb58f1cc
+11.12.2024 21:32:23 - Worker 3 processed order a336a80f-a072-4316-bc43-132fb10898e2
+11.12.2024 21:32:39 - Worker 15 processed order ded3c7bf-0388-4d7c-8f0f-62bbea5a954a
+11.12.2024 21:32:44 - Worker 2 processed order e26907bf-e4aa-4a30-b720-52885024860c
+11.12.2024 21:32:45 - Worker 11 processed order 2740f347-e6ad-484b-bc4f-732ebe59d0fb
+11.12.2024 21:32:47 - User 44 generated order a682f407-5765-411e-bf27-f24c5737370c
+11.12.2024 21:32:47 - User 43 generated order d241f941-2c69-444a-9d1f-bef8034f327b
+11.12.2024 21:32:47 - Worker 9 processed order b4764508-f39d-4f83-a5e4-007a3766a37f
+11.12.2024 21:32:47 - Worker 16 processed order 77cb3dc3-6639-48ca-992d-0fc0b30d9eef
+11.12.2024 21:32:47 - User 34 generated order 3bff10b1-ee80-489a-bb94-28e64ebf8980
+11.12.2024 21:32:47 - Worker 17 processed order df8c0498-c3d6-412f-9d74-2b4ebf7b540e
+11.12.2024 21:32:50 - User 38 generated order 89d83b0a-c57c-46ed-8905-1d094eb1c489
+11.12.2024 21:32:50 - User 40 generated order 015c9616-241a-4c42-80e8-ca62c69b3b3a
+11.12.2024 21:32:50 - User 37 generated order 9bbcfb65-df3f-4655-9c53-4816adcfeb5f
+11.12.2024 21:32:50 - User 35 generated order 31705cc5-4ef6-4f91-b65b-aa3e0e36f0ab
+11.12.2024 21:32:50 - User 32 generated order 37780b18-e592-4048-b6e5-868108f72faa
+11.12.2024 21:32:50 - User 12 generated order fd7be533-ac62-4fa8-9d74-a951c14aee74
+11.12.2024 21:32:50 - User 5 generated order 25c13dbc-a18a-46cb-ac6c-bd0a3447b53d
+11.12.2024 21:32:50 - User 4 generated order 9bf6d03e-c96a-46ce-8f6f-dacfa9314199
+11.12.2024 21:32:50 - User 8 generated order 7a18c317-f046-4cbc-9d0e-ce44723fddee
+11.12.2024 21:32:50 - User 45 generated order aa6bbcf9-fa2c-413b-bd28-f5518204c6c3
+11.12.2024 21:32:50 - User 23 generated order 9dd51d0e-ad85-40c4-9bb6-775b08caa006
+11.12.2024 21:32:50 - User 18 generated order 766cfdb4-8bb1-4db5-b79c-b4d8987d1263
+11.12.2024 21:32:50 - User 16 generated order 3a61ace6-98d5-4952-9556-09cd04dfad84
+11.12.2024 21:32:50 - User 10 generated order e9ad914e-27d5-41ea-81da-574fbe1113a9
+11.12.2024 21:32:50 - User 20 generated order 68f1cccd-df37-44fa-a1c6-e03085353761
+11.12.2024 21:32:50 - User 9 generated order a23dee3a-1be6-4dc1-a7ec-021e534b23f9
+11.12.2024 21:32:50 - User 2 generated order 2a999bd0-e123-42fa-a6f3-378d0600dffb
+11.12.2024 21:32:50 - Worker 5 processed order f1155124-038e-4339-8f6b-6c70cc893b90
+11.12.2024 21:32:50 - User 7 generated order 40e06959-3aa2-4f36-ad70-f63cce930bc4
+11.12.2024 21:32:50 - User 11 generated order 9d916ba0-be9e-446f-924a-3366b5ab9202
+11.12.2024 21:32:50 - User 3 generated order b2ff5463-21f8-4062-a4ea-81644f2d0b56
+11.12.2024 21:32:50 - User 24 generated order 6fdccf2e-4fde-42d3-a294-3f4e68f64d5f
+11.12.2024 21:32:50 - User 21 generated order 6d1ddcff-1b43-47a4-966a-12ad317d4cad
+11.12.2024 21:32:50 - User 19 generated order 7c537381-2db1-4baa-bea0-ef19871555c3
+11.12.2024 21:32:50 - User 15 generated order 1eaa1649-8f8c-4443-b038-f98a94c6c5c9
+11.12.2024 21:32:50 - User 13 generated order f9dcd3ee-2799-4fbd-99ad-051d24c2040d
+11.12.2024 21:32:50 - User 31 generated order fe258c5d-b3ae-4579-8a69-6bfb13508cf5
+11.12.2024 21:32:50 - User 29 generated order c2cd247c-aebf-44b3-bcce-94799b4ab27f
+11.12.2024 21:32:50 - User 27 generated order a2ec3bbe-afa1-4bd6-9618-d676c86264f9
+11.12.2024 21:32:50 - User 22 generated order ab81d5fb-b2f9-403e-a3fb-76db51f1799a
+11.12.2024 21:32:50 - User 41 generated order 1e4ac8f0-5637-48f6-a69b-1243e47f6def
+11.12.2024 21:32:50 - User 33 generated order 4245cc62-fc61-4a72-82d5-ca82d6762b46
+11.12.2024 21:32:50 - User 30 generated order dfe6aec4-63e0-43c0-8784-1f954539c5f5
+11.12.2024 21:32:50 - User 26 generated order 0925b09b-37d1-4b5e-a305-aa626fc8fd87
+11.12.2024 21:32:50 - User 14 generated order 93681691-c9cf-4225-ad19-fd461eaa7839
+11.12.2024 21:32:50 - User 39 generated order 972b57ea-4f49-4031-abf5-dcde11fcda6b
+11.12.2024 21:32:50 - User 36 generated order 3be80b84-f81e-4930-9913-730ed169aad7
+11.12.2024 21:32:50 - User 28 generated order d0a392b4-62f6-42c4-a63b-1b67304b4cb1
+11.12.2024 21:32:50 - User 25 generated order 1aa9a716-62d6-4a48-b34c-af3ea4077252
+11.12.2024 21:32:50 - User 17 generated order f20b8965-954c-4173-bc0d-ec0b668ff798
+11.12.2024 21:32:51 - User 6 generated order 22a01005-588d-4bfe-8fe0-72010790e0fd
+11.12.2024 21:32:51 - User 1 generated order 5433215c-b712-4ea5-b1c2-f992ccc5e2bb
+11.12.2024 21:32:53 - Pickup Point 8 delivered order b4764508-f39d-4f83-a5e4-007a3766a37f
+11.12.2024 21:32:53 - Pickup Point 7 delivered order 2740f347-e6ad-484b-bc4f-732ebe59d0fb
+11.12.2024 21:32:53 - Pickup Point 6 delivered order e26907bf-e4aa-4a30-b720-52885024860c
+11.12.2024 21:32:53 - Pickup Point 5 delivered order ded3c7bf-0388-4d7c-8f0f-62bbea5a954a
+11.12.2024 21:32:53 - Pickup Point 2 delivered order 51e0fd00-a0c9-4098-8c78-7e07e049cdbb
+11.12.2024 21:32:55 - Pickup Point 3 delivered order b3c95e86-c02d-43b3-a347-e48cbb58f1cc
+11.12.2024 21:32:55 - Pickup Point 1 delivered order cdca6376-70c9-4da9-8d59-cd672efaf6fc
+11.12.2024 21:32:56 - Pickup Point 10 delivered order df8c0498-c3d6-412f-9d74-2b4ebf7b540e
+11.12.2024 21:32:57 - Pickup Point 9 delivered order 77cb3dc3-6639-48ca-992d-0fc0b30d9eef
+11.12.2024 21:32:57 - Pickup Point 4 delivered order a336a80f-a072-4316-bc43-132fb10898e2
+11.12.2024 21:32:58 - Worker 14 processed order 3bff10b1-ee80-489a-bb94-28e64ebf8980
+11.12.2024 21:32:59 - Worker 6 processed order d241f941-2c69-444a-9d1f-bef8034f327b
+11.12.2024 21:32:59 - User 42 generated order f37c87ce-a55a-4ad7-b5d7-1a1528429790
+11.12.2024 21:33:00 - Pickup Point 7 delivered order f1155124-038e-4339-8f6b-6c70cc893b90
+11.12.2024 21:33:00 - Worker 9 processed order 015c9616-241a-4c42-80e8-ca62c69b3b3a
+11.12.2024 21:33:01 - Worker 5 processed order 6fdccf2e-4fde-42d3-a294-3f4e68f64d5f
+11.12.2024 21:33:01 - Worker 18 processed order d0a392b4-62f6-42c4-a63b-1b67304b4cb1
+11.12.2024 21:33:01 - Worker 20 processed order b2ff5463-21f8-4062-a4ea-81644f2d0b56
+11.12.2024 21:33:01 - Worker 23 processed order fe258c5d-b3ae-4579-8a69-6bfb13508cf5
+11.12.2024 21:33:02 - Worker 25 processed order 89d83b0a-c57c-46ed-8905-1d094eb1c489
+11.12.2024 21:33:02 - Worker 3 processed order 1aa9a716-62d6-4a48-b34c-af3ea4077252
+11.12.2024 21:33:02 - Worker 21 processed order f20b8965-954c-4173-bc0d-ec0b668ff798
+11.12.2024 21:33:02 - Worker 2 processed order 31705cc5-4ef6-4f91-b65b-aa3e0e36f0ab
+11.12.2024 21:33:02 - Worker 10 processed order 4245cc62-fc61-4a72-82d5-ca82d6762b46
+11.12.2024 21:33:03 - Worker 22 processed order 0925b09b-37d1-4b5e-a305-aa626fc8fd87
+11.12.2024 21:33:04 - Pickup Point 7 delivered order d0a392b4-62f6-42c4-a63b-1b67304b4cb1
+11.12.2024 21:33:04 - Pickup Point 8 delivered order 6fdccf2e-4fde-42d3-a294-3f4e68f64d5f
+11.12.2024 21:33:05 - User 35 generated order 8d0ebf7a-698f-402d-9cb9-72028f1fa5c8
+11.12.2024 21:33:05 - Worker 19 processed order ab81d5fb-b2f9-403e-a3fb-76db51f1799a
+11.12.2024 21:33:05 - Worker 13 processed order a682f407-5765-411e-bf27-f24c5737370c
+11.12.2024 21:33:05 - Pickup Point 4 delivered order d241f941-2c69-444a-9d1f-bef8034f327b
+11.12.2024 21:33:05 - Pickup Point 2 delivered order 015c9616-241a-4c42-80e8-ca62c69b3b3a
+11.12.2024 21:33:05 - Pickup Point 6 delivered order b2ff5463-21f8-4062-a4ea-81644f2d0b56
+11.12.2024 21:33:05 - Pickup Point 9 delivered order 3bff10b1-ee80-489a-bb94-28e64ebf8980
+11.12.2024 21:33:05 - User 34 generated order 21535731-a5af-4f08-ad82-12eceda23d08
+11.12.2024 21:33:06 - Pickup Point 10 delivered order f20b8965-954c-4173-bc0d-ec0b668ff798
+11.12.2024 21:33:06 - Pickup Point 5 delivered order 89d83b0a-c57c-46ed-8905-1d094eb1c489
+11.12.2024 21:33:06 - User 14 generated order be913e68-000c-41f2-824f-1784e7b14a06
+11.12.2024 21:33:06 - User 31 generated order a6476011-5c55-42e5-ab61-f76216d62831
+11.12.2024 21:33:06 - User 21 generated order ab0edee0-d1b8-4d61-a801-526ad8061048
+11.12.2024 21:33:06 - Worker 24 processed order 972b57ea-4f49-4031-abf5-dcde11fcda6b
+11.12.2024 21:33:07 - Worker 17 processed order 93681691-c9cf-4225-ad19-fd461eaa7839
+11.12.2024 21:33:07 - Worker 16 processed order dfe6aec4-63e0-43c0-8784-1f954539c5f5
+11.12.2024 21:33:07 - Worker 7 processed order 1e4ac8f0-5637-48f6-a69b-1243e47f6def
+11.12.2024 21:33:07 - User 5 generated order 69fed6ef-564b-4607-8f63-6d89ae51bfc3
+11.12.2024 21:33:07 - User 7 generated order 7931b503-1d56-4ace-b6da-5382f92f6397
+11.12.2024 21:33:07 - Pickup Point 7 delivered order 4245cc62-fc61-4a72-82d5-ca82d6762b46
+11.12.2024 21:33:07 - Pickup Point 3 delivered order fe258c5d-b3ae-4579-8a69-6bfb13508cf5
+11.12.2024 21:33:08 - Pickup Point 4 delivered order 0925b09b-37d1-4b5e-a305-aa626fc8fd87
+11.12.2024 21:33:08 - Pickup Point 1 delivered order 1aa9a716-62d6-4a48-b34c-af3ea4077252
+11.12.2024 21:33:08 - User 8 generated order 9fcaf655-14a1-4138-97a9-b408221af108
+11.12.2024 21:33:09 - Worker 12 processed order 3be80b84-f81e-4930-9913-730ed169aad7
+11.12.2024 21:33:09 - User 38 generated order d7b4c1df-0025-4ae7-a322-019182914364
+11.12.2024 21:33:09 - Worker 4 processed order 9d916ba0-be9e-446f-924a-3366b5ab9202
+11.12.2024 21:33:09 - User 18 generated order e5d92bd2-ab49-4832-aac6-9c7468419f16
+11.12.2024 21:33:09 - Pickup Point 2 delivered order ab81d5fb-b2f9-403e-a3fb-76db51f1799a
+11.12.2024 21:33:10 - User 12 generated order 6e7be1b2-5b12-462e-941e-0e4b307d3dd1
+11.12.2024 21:33:10 - Worker 11 processed order a2ec3bbe-afa1-4bd6-9618-d676c86264f9
+11.12.2024 21:33:10 - Pickup Point 9 delivered order dfe6aec4-63e0-43c0-8784-1f954539c5f5
+11.12.2024 21:33:10 - Worker 8 processed order c2cd247c-aebf-44b3-bcce-94799b4ab27f
+11.12.2024 21:33:10 - Worker 1 processed order 37780b18-e592-4048-b6e5-868108f72faa
+11.12.2024 21:33:10 - Worker 15 processed order 9bbcfb65-df3f-4655-9c53-4816adcfeb5f
+11.12.2024 21:33:11 - Pickup Point 5 delivered order 93681691-c9cf-4225-ad19-fd461eaa7839
+11.12.2024 21:33:11 - User 32 generated order 1e5299e1-7c3c-40be-8ac0-a415b896c147
+11.12.2024 21:33:11 - Pickup Point 10 delivered order 972b57ea-4f49-4031-abf5-dcde11fcda6b
+11.12.2024 21:33:11 - Pickup Point 8 delivered order 31705cc5-4ef6-4f91-b65b-aa3e0e36f0ab
+11.12.2024 21:33:11 - Worker 18 processed order fd7be533-ac62-4fa8-9d74-a951c14aee74
+11.12.2024 21:33:12 - Worker 3 processed order aa6bbcf9-fa2c-413b-bd28-f5518204c6c3
+11.12.2024 21:33:12 - User 4 generated order f969ea88-a449-4bbb-b0ae-49e93c1db720
+11.12.2024 21:33:12 - Pickup Point 7 delivered order 1e4ac8f0-5637-48f6-a69b-1243e47f6def
+11.12.2024 21:33:12 - Worker 6 processed order 7c537381-2db1-4baa-bea0-ef19871555c3
+11.12.2024 21:33:12 - Pickup Point 6 delivered order a682f407-5765-411e-bf27-f24c5737370c
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 5, PickupQueue = 0
+Order is created 690, is proccesed 390, is finished = 154
+11.12.2024 21:34:33 - Simulation started.
+11.12.2024 21:34:59 - User 43 generated order ae2cae89-f9ee-426a-b894-b3fe8d883768
+11.12.2024 21:34:59 - User 24 generated order 3c7af931-e240-4570-a649-953d477810ef
+11.12.2024 21:34:59 - User 18 generated order 8a67acca-6468-4d94-a802-7e362ff9d639
+11.12.2024 21:34:59 - User 44 generated order beaacd60-8dba-4f61-acd2-557fe091a2fe
+11.12.2024 21:35:14 - User 30 generated order 57735c9c-0f52-47b7-8377-338e41641c9b
+11.12.2024 21:35:14 - Worker 13 processed order beaacd60-8dba-4f61-acd2-557fe091a2fe
+11.12.2024 21:35:14 - User 38 generated order d76a58bc-6d21-4d63-a7ec-0ca7f2182406
+11.12.2024 21:35:14 - User 40 generated order 679f64ff-f848-45ca-8bd6-873ca0fbac02
+11.12.2024 21:35:14 - Worker 11 processed order 8a67acca-6468-4d94-a802-7e362ff9d639
+11.12.2024 21:35:14 - Worker 7 processed order ae2cae89-f9ee-426a-b894-b3fe8d883768
+11.12.2024 21:35:29 - User 37 generated order b0fa0307-2bc0-443a-a3bf-f37b9d1cfec6
+11.12.2024 21:35:29 - Worker 1 processed order 679f64ff-f848-45ca-8bd6-873ca0fbac02
+11.12.2024 21:35:29 - User 42 generated order b7553be6-7b62-4338-b8a9-ef7f02257733
+11.12.2024 21:35:29 - User 43 generated order b2a3b5a7-6fc3-4d1e-a92c-bf125c187644
+11.12.2024 21:35:29 - User 24 generated order 4268475c-03f2-410a-a371-39adb447b315
+11.12.2024 21:35:29 - User 44 generated order ea85b42b-72f3-465b-ab23-d42ea69affa9
+11.12.2024 21:35:46 - Worker 17 processed order d76a58bc-6d21-4d63-a7ec-0ca7f2182406
+11.12.2024 21:36:03 - User 38 generated order e3901832-e5ff-4756-822e-5e44c1072a80
+11.12.2024 21:36:03 - User 30 generated order 2f28a942-87fa-4e0e-9840-19fa741cfb5c
+11.12.2024 21:36:03 - User 42 generated order 664241e7-a5e6-4fe6-907f-e4c47222563b
+11.12.2024 21:36:03 - Worker 6 processed order 4268475c-03f2-410a-a371-39adb447b315
+11.12.2024 21:36:03 - Worker 14 processed order b2a3b5a7-6fc3-4d1e-a92c-bf125c187644
+11.12.2024 21:36:03 - User 43 generated order f3c31f14-cd52-446a-876a-46a740d52533
+11.12.2024 21:36:03 - User 40 generated order e99d9f58-e0e4-4500-be74-72c55cab9558
+11.12.2024 21:36:03 - User 44 generated order 902f5f9f-93c0-46d9-a1e1-22b207d83d0e
+11.12.2024 21:36:21 - Pickup Point 7 delivered order b2a3b5a7-6fc3-4d1e-a92c-bf125c187644
+11.12.2024 21:36:24 - Worker 4 processed order f3c31f14-cd52-446a-876a-46a740d52533
+11.12.2024 21:36:24 - Worker 7 processed order e3901832-e5ff-4756-822e-5e44c1072a80
+11.12.2024 21:36:24 - Worker 24 processed order 664241e7-a5e6-4fe6-907f-e4c47222563b
+11.12.2024 21:36:24 - Worker 20 processed order 902f5f9f-93c0-46d9-a1e1-22b207d83d0e
+11.12.2024 21:36:24 - Worker 12 processed order e99d9f58-e0e4-4500-be74-72c55cab9558
+11.12.2024 21:36:25 - Worker 1 processed order 2f28a942-87fa-4e0e-9840-19fa741cfb5c
+11.12.2024 21:36:25 - User 38 generated order ec4110bb-322a-4d81-86fe-cdcfce3cf43e
+11.12.2024 21:36:25 - User 41 generated order 4d2b280a-8c54-4109-80b8-d65fd588f4d3
+11.12.2024 21:36:25 - User 26 generated order a969f1dd-0150-4f4d-9fd8-74dcbf6ecf4b
+11.12.2024 21:36:25 - User 33 generated order 7918a514-a45a-433e-abf5-18d31731c79b
+11.12.2024 21:36:25 - User 22 generated order 3d497d59-4285-47aa-ac0d-55202e946556
+11.12.2024 21:36:25 - User 19 generated order 7ee487db-8529-45f9-849b-1d6b71fc6a75
+11.12.2024 21:36:25 - User 17 generated order 294c2156-1cb5-4d5b-b189-a808b99cdd41
+11.12.2024 21:36:25 - User 2 generated order 0271ed13-7a4d-49ea-a440-63db8a9efba8
+11.12.2024 21:36:25 - User 35 generated order 0a338571-3e9a-4283-94f2-55b3d289db7c
+11.12.2024 21:36:25 - User 21 generated order 7beba7d0-df24-40ea-88e5-d3921ef33956
+11.12.2024 21:36:25 - User 4 generated order ebbe498e-9d59-4d5c-8de2-e4ba6dd57f68
+11.12.2024 21:36:25 - User 11 generated order be88ca79-54c5-42bd-8a8f-901c51bcb121
+11.12.2024 21:36:25 - User 16 generated order bf2ca469-e215-40bc-ab67-75f0dbe7f112
+11.12.2024 21:36:25 - User 14 generated order 29502535-d856-407c-bce8-c0803526770d
+11.12.2024 21:36:25 - User 25 generated order fda7a1d0-7409-40c9-8f13-100c07a3bc2c
+11.12.2024 21:36:25 - User 8 generated order 85373a26-8665-4679-bb4d-22cb93312f32
+11.12.2024 21:36:25 - User 5 generated order 072d94aa-68f8-4fc4-8eb1-498384bc2a2a
+11.12.2024 21:36:25 - User 39 generated order 5a8e2332-3232-4d76-b6a7-7670087ced15
+11.12.2024 21:36:25 - Worker 15 processed order 57735c9c-0f52-47b7-8377-338e41641c9b
+11.12.2024 21:36:25 - Worker 11 processed order ea85b42b-72f3-465b-ab23-d42ea69affa9
+11.12.2024 21:36:25 - User 9 generated order d91576f5-df58-4149-8dfd-ae1066c51097
+11.12.2024 21:36:25 - User 3 generated order 1c013a03-65aa-4db7-a6f3-fda5cc585363
+11.12.2024 21:36:25 - User 36 generated order bc2bed38-cb8b-4fe2-b94d-5bda6e021967
+11.12.2024 21:36:25 - User 32 generated order 3b81c06b-4cb2-44d0-98f7-a86c5cee356d
+11.12.2024 21:36:25 - User 31 generated order 11a63dcf-fe35-42ec-bb80-cf95b08623d0
+11.12.2024 21:36:25 - User 29 generated order ba9d2d86-d4c7-4242-87b1-fe7217ed0650
+11.12.2024 21:36:25 - User 10 generated order bf07ee11-71d2-43a4-ad1d-5594424d92ac
+11.12.2024 21:36:25 - Pickup Point 2 delivered order 8a67acca-6468-4d94-a802-7e362ff9d639
+11.12.2024 21:36:25 - User 27 generated order 90c797e6-4aa2-43b8-a3f9-bda839e2ca00
+11.12.2024 21:36:25 - User 6 generated order 00fbbb8d-30e2-459d-854f-d00a2cf9b2df
+11.12.2024 21:36:25 - User 1 generated order 4f539714-e8ba-42ac-86ba-9e512864e17e
+11.12.2024 21:36:25 - User 34 generated order 9dab65de-9898-4ab3-b979-775868c1b845
+11.12.2024 21:36:25 - User 20 generated order d67215c3-fd87-41d8-b49c-d87f6dc72fbd
+11.12.2024 21:36:25 - User 12 generated order fba09aba-19a0-42b1-ba26-f59c2c7aa023
+11.12.2024 21:36:25 - User 18 generated order 784a9eec-eabf-489f-a3c2-00275dabc065
+11.12.2024 21:36:25 - User 28 generated order 9e3ea3e6-eb78-4541-b765-24380b7820b9
+11.12.2024 21:36:25 - User 15 generated order c16a25d0-4298-49e5-ad38-7c6330de9050
+11.12.2024 21:36:25 - User 13 generated order 439f116d-c14f-4347-a75a-d7b02ecb8a98
+11.12.2024 21:36:25 - Worker 2 processed order 3c7af931-e240-4570-a649-953d477810ef
+11.12.2024 21:36:25 - User 23 generated order 35a44eb7-24b8-4df2-bdc4-b709a79d3351
+11.12.2024 21:36:25 - User 45 generated order 36e846da-29e7-421e-9615-9a05e3e97811
+11.12.2024 21:36:25 - Worker 18 processed order b7553be6-7b62-4338-b8a9-ef7f02257733
+11.12.2024 21:36:25 - Worker 9 processed order b0fa0307-2bc0-443a-a3bf-f37b9d1cfec6
+11.12.2024 21:36:25 - User 37 generated order 3b51b2b0-32ad-40c9-b1e5-0313a98ab058
+11.12.2024 21:36:25 - Pickup Point 6 delivered order 4268475c-03f2-410a-a371-39adb447b315
+11.12.2024 21:36:25 - Pickup Point 5 delivered order d76a58bc-6d21-4d63-a7ec-0ca7f2182406
+11.12.2024 21:36:25 - Pickup Point 4 delivered order 679f64ff-f848-45ca-8bd6-873ca0fbac02
+11.12.2024 21:36:25 - Pickup Point 3 delivered order ae2cae89-f9ee-426a-b894-b3fe8d883768
+11.12.2024 21:36:25 - User 7 generated order 3d01a9de-09c8-4330-b2c4-a27a4f413d8d
+11.12.2024 21:36:25 - Pickup Point 1 delivered order beaacd60-8dba-4f61-acd2-557fe091a2fe
+11.12.2024 21:36:25 - User 24 generated order 0c1a252f-5216-4209-889c-731d168c05f2
+11.12.2024 21:36:28 - Pickup Point 4 delivered order 57735c9c-0f52-47b7-8377-338e41641c9b
+11.12.2024 21:36:28 - Pickup Point 1 delivered order b7553be6-7b62-4338-b8a9-ef7f02257733
+11.12.2024 21:36:29 - Pickup Point 2 delivered order e99d9f58-e0e4-4500-be74-72c55cab9558
+11.12.2024 21:36:30 - Pickup Point 10 delivered order 664241e7-a5e6-4fe6-907f-e4c47222563b
+11.12.2024 21:36:30 - Pickup Point 5 delivered order 3c7af931-e240-4570-a649-953d477810ef
+11.12.2024 21:36:31 - Pickup Point 7 delivered order e3901832-e5ff-4756-822e-5e44c1072a80
+11.12.2024 21:36:31 - Pickup Point 9 delivered order f3c31f14-cd52-446a-876a-46a740d52533
+11.12.2024 21:36:31 - Pickup Point 8 delivered order 902f5f9f-93c0-46d9-a1e1-22b207d83d0e
+11.12.2024 21:36:32 - Pickup Point 3 delivered order ea85b42b-72f3-465b-ab23-d42ea69affa9
+11.12.2024 21:36:32 - Pickup Point 6 delivered order 2f28a942-87fa-4e0e-9840-19fa741cfb5c
+11.12.2024 21:36:32 - Pickup Point 4 delivered order b0fa0307-2bc0-443a-a3bf-f37b9d1cfec6
+11.12.2024 21:36:34 - User 40 generated order 424ee947-f7ca-424b-af6c-2af037ca73d2
+11.12.2024 21:36:34 - User 44 generated order 44349a0e-d46b-485f-a083-19ecbaa5d311
+11.12.2024 21:36:35 - Worker 14 processed order fda7a1d0-7409-40c9-8f13-100c07a3bc2c
+11.12.2024 21:36:35 - Worker 21 processed order 7beba7d0-df24-40ea-88e5-d3921ef33956
+11.12.2024 21:36:35 - Worker 11 processed order bc2bed38-cb8b-4fe2-b94d-5bda6e021967
+11.12.2024 21:36:35 - Worker 18 processed order 11a63dcf-fe35-42ec-bb80-cf95b08623d0
+11.12.2024 21:36:36 - User 30 generated order 19e414de-e7dc-4a64-9899-e3ab35785d32
+11.12.2024 21:36:36 - Worker 12 processed order ec4110bb-322a-4d81-86fe-cdcfce3cf43e
+11.12.2024 21:36:36 - Worker 20 processed order 0271ed13-7a4d-49ea-a440-63db8a9efba8
+11.12.2024 21:36:36 - Worker 17 processed order 3b81c06b-4cb2-44d0-98f7-a86c5cee356d
+11.12.2024 21:36:38 - User 42 generated order 659b35b4-1835-419f-b151-b1fabf1a52a1
+11.12.2024 21:36:38 - Worker 13 processed order d91576f5-df58-4149-8dfd-ae1066c51097
+11.12.2024 21:36:38 - Worker 4 processed order 4d2b280a-8c54-4109-80b8-d65fd588f4d3
+11.12.2024 21:36:38 - Worker 19 processed order 0a338571-3e9a-4283-94f2-55b3d289db7c
+11.12.2024 21:36:38 - Worker 9 processed order ba9d2d86-d4c7-4242-87b1-fe7217ed0650
+11.12.2024 21:36:38 - Pickup Point 4 delivered order 7beba7d0-df24-40ea-88e5-d3921ef33956
+11.12.2024 21:36:38 - Pickup Point 2 delivered order 11a63dcf-fe35-42ec-bb80-cf95b08623d0
+11.12.2024 21:36:39 - Worker 10 processed order 072d94aa-68f8-4fc4-8eb1-498384bc2a2a
+11.12.2024 21:36:39 - Worker 23 processed order 7ee487db-8529-45f9-849b-1d6b71fc6a75
+11.12.2024 21:36:39 - Worker 25 processed order bf2ca469-e215-40bc-ab67-75f0dbe7f112
+11.12.2024 21:36:39 - Worker 26 processed order 35a44eb7-24b8-4df2-bdc4-b709a79d3351
+11.12.2024 21:36:40 - Pickup Point 3 delivered order ec4110bb-322a-4d81-86fe-cdcfce3cf43e
+11.12.2024 21:36:40 - Worker 5 processed order 3d497d59-4285-47aa-ac0d-55202e946556
+11.12.2024 21:36:40 - Worker 1 processed order 5a8e2332-3232-4d76-b6a7-7670087ced15
+11.12.2024 21:36:41 - Pickup Point 8 delivered order d91576f5-df58-4149-8dfd-ae1066c51097
+11.12.2024 21:36:41 - Worker 8 processed order 36e846da-29e7-421e-9615-9a05e3e97811
+11.12.2024 21:36:41 - Pickup Point 1 delivered order 0271ed13-7a4d-49ea-a440-63db8a9efba8
+11.12.2024 21:36:41 - Worker 16 processed order a969f1dd-0150-4f4d-9fd8-74dcbf6ecf4b
+11.12.2024 21:36:41 - User 19 generated order 0566320f-bf0e-42e3-a691-ba4b7fa2eebb
+11.12.2024 21:36:41 - User 9 generated order 8f74004c-6a73-4e2d-a6f6-7d2f43e98317
+11.12.2024 21:36:42 - Worker 24 processed order be88ca79-54c5-42bd-8a8f-901c51bcb121
+11.12.2024 21:36:42 - Worker 3 processed order ebbe498e-9d59-4d5c-8de2-e4ba6dd57f68
+11.12.2024 21:36:42 - Worker 6 processed order 29502535-d856-407c-bce8-c0803526770d
+11.12.2024 21:36:42 - Worker 7 processed order 294c2156-1cb5-4d5b-b189-a808b99cdd41
+11.12.2024 21:36:42 - Worker 22 processed order 85373a26-8665-4679-bb4d-22cb93312f32
+11.12.2024 21:36:42 - Pickup Point 10 delivered order 4d2b280a-8c54-4109-80b8-d65fd588f4d3
+11.12.2024 21:36:42 - Worker 15 processed order 1c013a03-65aa-4db7-a6f3-fda5cc585363
+11.12.2024 21:36:42 - Pickup Point 6 delivered order 3b81c06b-4cb2-44d0-98f7-a86c5cee356d
+11.12.2024 21:36:42 - Pickup Point 7 delivered order fda7a1d0-7409-40c9-8f13-100c07a3bc2c
+Reached the maximum number of completed orders. Stopping simulation...
+11.12.2024 21:36:42 - User 36 generated order cf76d756-5aa0-43fd-8b30-02cbaf2dca7b
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+11.12.2024 21:36:42 - User 29 generated order 8f293796-811b-4995-a806-feeca142881a
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 9
+Order is created 660, is proccesed 430, is finished = 158
+11.12.2024 21:38:16 - Simulation started.
+11.12.2024 21:38:44 - User 1 generated order fab219d4-6377-489d-bd82-d820d358b400
+11.12.2024 21:38:48 - User 5 generated order 5e8bb4bb-8f85-47b4-ac8d-f6255a858271
+11.12.2024 21:38:50 - User 4 generated order feef3d78-850e-46ce-9336-c7bf71f760fa
+11.12.2024 21:38:53 - User 2 generated order ebb08039-41dc-4af4-9637-938ec63086a8
+11.12.2024 21:38:55 - User 3 generated order 060102d0-737e-40bb-b755-2f4cfd415779
+11.12.2024 21:38:55 - Worker 2 processed order fab219d4-6377-489d-bd82-d820d358b400
+11.12.2024 21:38:58 - Worker 1 processed order 5e8bb4bb-8f85-47b4-ac8d-f6255a858271
+11.12.2024 21:39:02 - Pickup Point 1 delivered order fab219d4-6377-489d-bd82-d820d358b400
+11.12.2024 21:39:07 - Pickup Point 1 delivered order 5e8bb4bb-8f85-47b4-ac8d-f6255a858271
+11.12.2024 21:39:08 - Worker 3 processed order feef3d78-850e-46ce-9336-c7bf71f760fa
+11.12.2024 21:39:08 - Worker 2 processed order ebb08039-41dc-4af4-9637-938ec63086a8
+11.12.2024 21:39:10 - User 4 generated order 87928b8a-5161-4ad6-91d5-43c7ad66b084
+11.12.2024 21:39:12 - Worker 1 processed order 060102d0-737e-40bb-b755-2f4cfd415779
+11.12.2024 21:39:13 - User 3 generated order c60d7b6c-2bc1-4721-bd59-b61c74123efd
+11.12.2024 21:39:13 - Pickup Point 1 delivered order feef3d78-850e-46ce-9336-c7bf71f760fa
+11.12.2024 21:39:20 - Pickup Point 1 delivered order ebb08039-41dc-4af4-9637-938ec63086a8
+11.12.2024 21:39:20 - User 1 generated order ce9caadf-c8e3-4af5-9e07-7c8c5d2ab165
+11.12.2024 21:39:23 - Worker 1 processed order c60d7b6c-2bc1-4721-bd59-b61c74123efd
+11.12.2024 21:39:23 - Pickup Point 1 delivered order 060102d0-737e-40bb-b755-2f4cfd415779
+11.12.2024 21:39:26 - Worker 2 processed order 87928b8a-5161-4ad6-91d5-43c7ad66b084
+11.12.2024 21:39:27 - User 4 generated order c4c84f18-1ec6-4367-a6f7-438472ab9a18
+11.12.2024 21:39:28 - User 5 generated order d3143a1d-0a83-4305-b026-34694fb43b7d
+11.12.2024 21:39:28 - Pickup Point 1 delivered order c60d7b6c-2bc1-4721-bd59-b61c74123efd
+11.12.2024 21:39:33 - User 2 generated order 60ed58eb-dcb7-4429-968f-51171593a8fb
+11.12.2024 21:39:35 - Pickup Point 1 delivered order 87928b8a-5161-4ad6-91d5-43c7ad66b084
+11.12.2024 21:39:36 - User 3 generated order 173571f5-84a4-417e-bc82-d1c3bb5706f0
+11.12.2024 21:39:37 - Worker 3 processed order ce9caadf-c8e3-4af5-9e07-7c8c5d2ab165
+11.12.2024 21:39:43 - User 5 generated order cf98cd7a-54a6-4d60-944e-8b276cb3232d
+11.12.2024 21:39:43 - User 4 generated order 055005bf-b64e-4548-a77c-ea99edae7f49
+11.12.2024 21:39:43 - Pickup Point 1 delivered order ce9caadf-c8e3-4af5-9e07-7c8c5d2ab165
+11.12.2024 21:39:44 - Worker 1 processed order c4c84f18-1ec6-4367-a6f7-438472ab9a18
+11.12.2024 21:39:46 - Worker 2 processed order d3143a1d-0a83-4305-b026-34694fb43b7d
+11.12.2024 21:39:48 - Pickup Point 1 delivered order c4c84f18-1ec6-4367-a6f7-438472ab9a18
+11.12.2024 21:39:50 - Worker 3 processed order 60ed58eb-dcb7-4429-968f-51171593a8fb
+11.12.2024 21:39:55 - Worker 1 processed order 173571f5-84a4-417e-bc82-d1c3bb5706f0
+11.12.2024 21:39:55 - Pickup Point 1 delivered order d3143a1d-0a83-4305-b026-34694fb43b7d
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 2
+Order is created 14, is proccesed 12, is finished = 10
+11.12.2024 21:40:35 - Simulation started.
+11.12.2024 21:40:51 - User 5 generated order 42a67d6f-c0bf-40e6-b845-bab26118a35b
+11.12.2024 21:40:51 - User 1 generated order 35848b77-a17c-4bee-9d68-094c40986397
+11.12.2024 21:41:01 - Worker 1 processed order 35848b77-a17c-4bee-9d68-094c40986397
+11.12.2024 21:41:06 - User 5 generated order bed6d32d-515a-4f39-a2a1-b74d4436148d
+11.12.2024 21:41:07 - Pickup Point 1 delivered order 35848b77-a17c-4bee-9d68-094c40986397
+11.12.2024 21:41:08 - Worker 2 processed order 42a67d6f-c0bf-40e6-b845-bab26118a35b
+11.12.2024 21:41:12 - User 3 generated order 16d06b9e-47cd-4462-830f-fb755f1d5c5c
+11.12.2024 21:41:13 - User 2 generated order c3547f89-10be-4675-84e1-e538482e2e19
+11.12.2024 21:41:13 - Pickup Point 1 delivered order 42a67d6f-c0bf-40e6-b845-bab26118a35b
+11.12.2024 21:41:16 - User 4 generated order 0ef4582f-28f0-4607-8625-c39408143dbe
+11.12.2024 21:41:21 - Worker 1 processed order bed6d32d-515a-4f39-a2a1-b74d4436148d
+11.12.2024 21:41:25 - Worker 3 processed order 16d06b9e-47cd-4462-830f-fb755f1d5c5c
+11.12.2024 21:41:27 - User 3 generated order dab1aec6-6963-4af4-8ee5-256b73459424
+11.12.2024 21:41:28 - Pickup Point 2 delivered order bed6d32d-515a-4f39-a2a1-b74d4436148d
+11.12.2024 21:41:29 - Pickup Point 1 delivered order 16d06b9e-47cd-4462-830f-fb755f1d5c5c
+11.12.2024 21:41:32 - Worker 2 processed order c3547f89-10be-4675-84e1-e538482e2e19
+11.12.2024 21:41:34 - User 4 generated order 7f44cbed-a51d-46a9-808c-e223d85f4e17
+11.12.2024 21:41:34 - Worker 1 processed order 0ef4582f-28f0-4607-8625-c39408143dbe
+11.12.2024 21:41:36 - User 1 generated order 7f222114-724f-461b-9e58-bbf8b525228a
+11.12.2024 21:41:37 - Pickup Point 2 delivered order c3547f89-10be-4675-84e1-e538482e2e19
+11.12.2024 21:41:38 - Pickup Point 1 delivered order 0ef4582f-28f0-4607-8625-c39408143dbe
+Reached the maximum number of completed orders. Stopping simulation...
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 18, is proccesed 12, is finished = 10
+13.12.2024 11:35:20 - Simulation started.
+13.12.2024 11:35:37 - User 5 generated order 2ce58c35-c43e-4d58-9ede-a614341097f0
+13.12.2024 11:35:37 - User 2 generated order 66e2943c-8dda-417a-bb1e-08e9d16db832
+13.12.2024 11:35:38 - User 3 generated order f22e5676-6495-48ff-9599-bd875530b16a
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 2, PickupQueue = 0
+Order is created 3, is proccesed 0, is finished = 0
+13.12.2024 11:37:57 - Simulation started.
+13.12.2024 11:38:20 - User 2 generated order 40369aaf-71d2-486f-82a6-b547a355d443
+13.12.2024 11:38:22 - User 1 generated order e7df4428-359f-418c-aa95-1a3332d0c070
+13.12.2024 11:38:25 - User 3 generated order 2a16d4f9-b6e5-410a-a81e-64eab48915c7
+13.12.2024 11:38:32 - User 4 generated order 622e15b0-e9d8-4470-82ef-6800dcef33e9
+13.12.2024 11:38:34 - Worker 1 processed order 40369aaf-71d2-486f-82a6-b547a355d443
+13.12.2024 11:38:40 - User 5 generated order c7448eb7-3a6d-458d-bfb9-3301e18e8746
+13.12.2024 11:38:40 - Pickup Point 1 delivered order 40369aaf-71d2-486f-82a6-b547a355d443
+13.12.2024 11:38:41 - User 3 generated order d8674d42-d776-4927-afec-1f4b8938a2e2
+13.12.2024 11:38:50 - Worker 1 processed order e7df4428-359f-418c-aa95-1a3332d0c070
+13.12.2024 11:38:50 - User 4 generated order 6d503b83-d15b-434f-b1d6-f854acad7b71
+13.12.2024 11:38:54 - User 1 generated order 9fde2230-da73-4c63-ac44-f14a57d69125
+13.12.2024 11:38:56 - Pickup Point 1 delivered order e7df4428-359f-418c-aa95-1a3332d0c070
+13.12.2024 11:38:58 - User 2 generated order dbaebc8b-b8f8-418c-a030-a4b0af92ad4c
+13.12.2024 11:39:03 - User 3 generated order 926bbea4-7612-4635-ac5a-d6b969f1faa1
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 7, PickupQueue = 0
+Order is created 10, is proccesed 2, is finished = 2
+13.12.2024 11:39:09 - Simulation started.
+13.12.2024 11:39:25 - User 5 generated order 22c58fd7-019c-401f-a696-de9af1f6a486
+13.12.2024 11:39:27 - User 1 generated order 515474a2-6c59-42f9-8ef7-6ef362b84029
+13.12.2024 11:39:30 - User 15 generated order 405b08ba-4bdd-470e-b955-c06f31edfc23
+13.12.2024 11:39:31 - User 4 generated order 9b2742a7-f6fe-477e-ae9a-d0a6c2053af0
+13.12.2024 11:39:35 - User 11 generated order d08da207-1507-4211-b271-fd30fd9dc30b
+13.12.2024 11:39:35 - User 10 generated order c9273f24-9f72-49b7-bf28-b3c676abbfea
+13.12.2024 11:39:40 - User 12 generated order dc6e89cf-3062-4d01-b2dd-facf915a640e
+13.12.2024 11:39:41 - User 14 generated order d996045a-dadb-4533-a69d-b2f548c8472f
+13.12.2024 11:39:41 - Worker 4 processed order 515474a2-6c59-42f9-8ef7-6ef362b84029
+13.12.2024 11:39:41 - User 9 generated order e7093744-00c9-4778-9d82-8d3fd08f9fae
+13.12.2024 11:39:42 - Worker 3 processed order 9b2742a7-f6fe-477e-ae9a-d0a6c2053af0
+13.12.2024 11:39:44 - Worker 2 processed order 22c58fd7-019c-401f-a696-de9af1f6a486
+13.12.2024 11:39:45 - Pickup Point 3 delivered order 515474a2-6c59-42f9-8ef7-6ef362b84029
+13.12.2024 11:39:45 - Worker 8 processed order 405b08ba-4bdd-470e-b955-c06f31edfc23
+13.12.2024 11:39:47 - Pickup Point 2 delivered order 22c58fd7-019c-401f-a696-de9af1f6a486
+13.12.2024 11:39:48 - User 13 generated order becfb6f2-a29f-4d5d-a9a3-ffe7dd0cdbae
+13.12.2024 11:39:48 - User 6 generated order 118f71e6-114f-469e-9de1-a341ef38f9fa
+13.12.2024 11:39:48 - Pickup Point 3 delivered order 405b08ba-4bdd-470e-b955-c06f31edfc23
+13.12.2024 11:39:49 - User 8 generated order 29736814-e925-4fee-8e04-29ca7389d323
+13.12.2024 11:39:49 - Pickup Point 1 delivered order 9b2742a7-f6fe-477e-ae9a-d0a6c2053af0
+13.12.2024 11:39:51 - Worker 1 processed order c9273f24-9f72-49b7-bf28-b3c676abbfea
+13.12.2024 11:39:52 - Worker 7 processed order d08da207-1507-4211-b271-fd30fd9dc30b
+13.12.2024 11:39:52 - Worker 6 processed order dc6e89cf-3062-4d01-b2dd-facf915a640e
+13.12.2024 11:39:53 - User 7 generated order 4c19c65d-71aa-4ad5-8a77-6957cfdf574a
+13.12.2024 11:39:54 - User 2 generated order d827c417-9e7b-452c-adab-10a34f8f724d
+13.12.2024 11:39:54 - Pickup Point 1 delivered order c9273f24-9f72-49b7-bf28-b3c676abbfea
+Reached the maximum number of completed orders. Stopping simulation...
+13.12.2024 11:39:54 - User 3 generated order 1f787c2b-2e8e-43c4-aca4-8cdcb25e8954
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 45, is proccesed 21, is finished = 10
+17.12.2024 15:37:43 - Simulation started.
+17.12.2024 15:37:58 - User 2 generated order 9624dbca-47a9-487e-9292-3b2b63e5ac23
+17.12.2024 15:38:04 - User 4 generated order a3488bd0-5d8c-41cf-8a57-c7392eab6a7c
+17.12.2024 15:38:11 - Worker 2 processed order 9624dbca-47a9-487e-9292-3b2b63e5ac23
+17.12.2024 15:38:16 - Pickup Point 2 delivered order 9624dbca-47a9-487e-9292-3b2b63e5ac23
+17.12.2024 15:38:19 - Worker 3 processed order a3488bd0-5d8c-41cf-8a57-c7392eab6a7c
+17.12.2024 15:38:23 - User 3 generated order 0c8bbb24-a527-4ddc-a541-042efe43133d
+17.12.2024 15:38:23 - User 1 generated order f39b5c91-cd22-45ee-ae34-9ec2a8d1f0a0
+17.12.2024 15:38:25 - Pickup Point 2 delivered order a3488bd0-5d8c-41cf-8a57-c7392eab6a7c
+17.12.2024 15:38:27 - User 5 generated order 55b55062-f754-43b4-b457-b36f4c7fce4f
+Simulation stopped.
+Simulation completed. Orders left in queues: EventQueue = 0, PickupQueue = 0
+Order is created 10, is proccesed 4, is finished = 2

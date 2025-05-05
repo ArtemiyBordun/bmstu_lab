@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Demographic1.Exec": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\proga\\sem3\\lab6\\InitialAge.csv\"\r\n\"D:\\proga\\sem3\\lab6\\DeathRules.csv\"\r\n1970\r\n2021\r\n130000000"
+    }
+  }
+}

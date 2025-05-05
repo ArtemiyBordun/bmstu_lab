@@ -1,0 +1,14 @@
+{
+    "UserParameters": {
+        "PathInitialAge": "D:\\proga\\sem3\\lab6\\InitialAge.csv",
+        "PathDeathRules": "D:\\proga\\sem3\\lab6\\DeathRules.csv",
+        "StartYear": 1970,
+        "EndYear": 2021,
+        "OriginalPopulation": 146000015
+    },
+    "AppParameters": {
+        "scale": "1000",
+        "ProbabilityBirth": "0.07",
+        "ProbabilityBirthGender": "0.55"
+    }
+}
